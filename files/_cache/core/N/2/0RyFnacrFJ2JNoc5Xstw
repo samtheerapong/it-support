@@ -1,6 +1,6 @@
-1688185097
+1688187223
 2e5e5298883fe6bfd3a1301a1a3c6e0e765b14a9
-a:1:{s:63:"count_Monitor_MonitorModel_5a476ff9-116e-4270-858b-c003c20841a9";s:15228:"      <style>
+a:1:{s:63:"count_Monitor_MonitorModel_5a476ff9-116e-4270-858b-c003c20841a9";s:15258:"      <style>
          #chart-dashboard_card_central_2ca44cf99627ca70a923fcf8e9e58437cb7b5fb5 {
             background-color: #f5fafa;
             color: #6db6b6
@@ -170,7 +170,7 @@ a:1:{s:63:"count_Monitor_MonitorModel_5a476ff9-116e-4270-858b-c003c20841a9";s:15
       $(function () {
          var chart = new Chartist.Pie(Dashboard.getActiveDashboard().element.find('#chart-dashboard_card_central_2ca44cf99627ca70a923fcf8e9e58437cb7b5fb5 .chart')[0], {
             labels: ["DELL E2016HV","HP 20wd","Compaq S2021","S19B150","DELL SE2219HX"],
-            series: [{"meta":"DELL E2016HV","value":7,"url":"\/glpi\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=40&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=4&reset=reset"},{"meta":"HP 20wd","value":4,"url":"\/glpi\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=40&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=9&reset=reset"},{"meta":"Compaq S2021","value":4,"url":"\/glpi\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=40&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=7&reset=reset"},{"meta":"S19B150","value":3,"url":"\/glpi\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=40&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=13&reset=reset"},{"meta":"DELL SE2219HX","value":3,"url":"\/glpi\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=40&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=8&reset=reset"}],
+            series: [{"meta":"DELL E2016HV","value":7,"url":"\/it-support\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=40&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=4&reset=reset"},{"meta":"HP 20wd","value":4,"url":"\/it-support\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=40&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=9&reset=reset"},{"meta":"Compaq S2021","value":4,"url":"\/it-support\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=40&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=7&reset=reset"},{"meta":"S19B150","value":3,"url":"\/it-support\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=40&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=13&reset=reset"},{"meta":"DELL SE2219HX","value":3,"url":"\/it-support\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=40&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=8&reset=reset"}],
          }, {
             width: '100%',
             chartPadding: 4,

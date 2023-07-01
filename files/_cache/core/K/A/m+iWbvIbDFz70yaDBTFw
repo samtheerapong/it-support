@@ -1,29 +1,29 @@
-1688185108
+1688187226
 836137f89d0800e2f2a1bfd17780f7caf0caaed6
-a:1:{s:50:"bn_count_Rack_0fdc196f-20d2-4f63-9ddb-b75c165cc664";s:1139:"      <style>
-         #bn_723645734 {
+a:1:{s:50:"bn_count_Rack_0fdc196f-20d2-4f63-9ddb-b75c165cc664";s:1150:"      <style>
+         #bn_1642515245 {
             background-color: #f7d79a;
             color: #b77d0e;
          }
 
-         #bn_723645734:hover {
+         #bn_1642515245:hover {
             background-color: #f1bb53;
             border: 1px solid #e69d12;
          }
 
-         .theme-dark #bn_723645734 {
+         .theme-dark #bn_1642515245 {
             background-color: #b77d0e;
             color: #f7d79a;
          }
 
-         .theme-dark #bn_723645734:hover {
+         .theme-dark #bn_1642515245:hover {
             background-color: #f1bb53;
             color: #b77d0e;
             border: 1px solid #e69d12;
          }
       </style>
-      <a href='/glpi/front/rack.php?reset=reset'
-         id="bn_723645734"
+      <a href='/it-support/front/rack.php?reset=reset'
+         id="bn_1642515245"
          class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
          title="">
          <span class="content">            <span title="7"

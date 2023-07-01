@@ -1,29 +1,29 @@
-1688185108
+1688187226
 4920e8d24c42a6d88752251c5c2e49d4c860c22c
-a:1:{s:54:"bn_count_Software_60091467-2137-49f4-8834-f6602a482079";s:1173:"      <style>
-         #bn_1873446632 {
+a:1:{s:54:"bn_count_Software_60091467-2137-49f4-8834-f6602a482079";s:1174:"      <style>
+         #bn_667852532 {
             background-color: #d1f1a8;
             color: #70b11c;
          }
 
-         #bn_1873446632:hover {
+         #bn_667852532:hover {
             background-color: #aee666;
             border: 1px solid #8bdc24;
          }
 
-         .theme-dark #bn_1873446632 {
+         .theme-dark #bn_667852532 {
             background-color: #70b11c;
             color: #d1f1a8;
          }
 
-         .theme-dark #bn_1873446632:hover {
+         .theme-dark #bn_667852532:hover {
             background-color: #aee666;
             color: #70b11c;
             border: 1px solid #8bdc24;
          }
       </style>
-      <a href='/glpi/front/software.php?reset=reset'
-         id="bn_1873446632"
+      <a href='/it-support/front/software.php?reset=reset'
+         id="bn_667852532"
          class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech"
          title="">
          <span class="content">            <span title="2426"

@@ -1,29 +1,29 @@
-1688185096
+1688187223
 64d0aa8e21f611bc13a7bb519df095fca5a6c9f6
-a:1:{s:58:"bn_count_KnowbaseItem_a3785a56-bed4-4a30-8387-f251f5365b3b";s:1128:"      <style>
-         #bn_1658092468 {
+a:1:{s:58:"bn_count_KnowbaseItem_a3785a56-bed4-4a30-8387-f251f5365b3b";s:1134:"      <style>
+         #bn_1492471422 {
             background-color: #c9c9c9;
             color: #636363;
          }
 
-         #bn_1658092468:hover {
+         #bn_1492471422:hover {
             background-color: #a3a3a3;
             border: 1px solid #7d7d7d;
          }
 
-         .theme-dark #bn_1658092468 {
+         .theme-dark #bn_1492471422 {
             background-color: #636363;
             color: #c9c9c9;
          }
 
-         .theme-dark #bn_1658092468:hover {
+         .theme-dark #bn_1492471422:hover {
             background-color: #a3a3a3;
             color: #636363;
             border: 1px solid #7d7d7d;
          }
       </style>
-      <a href='/glpi/front/knowbaseitem.php?reset=reset'
-         id="bn_1658092468"
+      <a href='/it-support/front/knowbaseitem.php?reset=reset'
+         id="bn_1492471422"
          class="card big-number  filter-dates filter-dates_mod"
          title="">
          <span class="content">            <span title="8"

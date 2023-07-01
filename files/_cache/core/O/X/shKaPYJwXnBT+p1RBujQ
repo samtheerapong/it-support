@@ -1,6 +1,6 @@
-1688185108
+1688187226
 bbc784f5fefaaeac0b0232abd30626490f141195
-a:1:{s:64:"count_Computer_ComputerType_c58f9c7e-22d5-478b-8226-d2a752bcbb09";s:13561:"      <style>
+a:1:{s:64:"count_Computer_ComputerType_c58f9c7e-22d5-478b-8226-d2a752bcbb09";s:13585:"      <style>
          #chart-dashboard_card_assets_82543e6e87bdfdc6d5a71a674ed4024983b802c3 {
             background-color: #f5f9fa;
             color: #6da7b6
@@ -150,7 +150,7 @@ a:1:{s:64:"count_Computer_ComputerType_c58f9c7e-22d5-478b-8226-d2a752bcbb09";s:1
       $(function () {
          var chart = new Chartist.Pie(Dashboard.getActiveDashboard().element.find('#chart-dashboard_card_assets_82543e6e87bdfdc6d5a71a674ed4024983b802c3 .chart')[0], {
             labels: ["DESKTOP","NOTEBOOK","SERVER","NAS"],
-            series: [{"meta":"DESKTOP","value":29,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=4&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset"},{"meta":"NOTEBOOK","value":5,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=4&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=4&reset=reset"},{"meta":"SERVER","value":3,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=4&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=2&reset=reset"},{"meta":"NAS","value":2,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=4&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=5&reset=reset"}],
+            series: [{"meta":"DESKTOP","value":29,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=4&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset"},{"meta":"NOTEBOOK","value":5,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=4&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=4&reset=reset"},{"meta":"SERVER","value":3,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=4&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=2&reset=reset"},{"meta":"NAS","value":2,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=4&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=5&reset=reset"}],
          }, {
             width: '100%',
             chartPadding: 4,

@@ -1,6 +1,6 @@
-1688185108
+1688187226
 f658ce81e2d275692d1f858b53631298da6392bd
-a:1:{s:57:"count_Computer_State_290c5920-9eab-4db8-8753-46108e60f1d8";s:15183:"      <style>
+a:1:{s:57:"count_Computer_State_290c5920-9eab-4db8-8753-46108e60f1d8";s:15213:"      <style>
          #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 {
             background-color: #fbf7f7;
             color: #b76f6f
@@ -170,7 +170,7 @@ a:1:{s:57:"count_Computer_State_290c5920-9eab-4db8-8753-46108e60f1d8";s:15183:" 
       $(function () {
          var chart = new Chartist.Pie(Dashboard.getActiveDashboard().element.find('#chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .chart')[0], {
             labels: ["Used","Online","Online > No User","Offline > Keep IT","Used > Center"],
-            series: [{"meta":"Used","value":27,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=31&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=2&reset=reset"},{"meta":"Online","value":5,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=31&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset"},{"meta":"Online > No User","value":3,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=31&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=7&reset=reset"},{"meta":"Offline > Keep IT","value":2,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=31&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=6&reset=reset"},{"meta":"Used > Center","value":2,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=31&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=8&reset=reset"}],
+            series: [{"meta":"Used","value":27,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=31&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=2&reset=reset"},{"meta":"Online","value":5,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=31&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset"},{"meta":"Online > No User","value":3,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=31&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=7&reset=reset"},{"meta":"Offline > Keep IT","value":2,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=31&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=6&reset=reset"},{"meta":"Used > Center","value":2,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=31&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=8&reset=reset"}],
          }, {
             width: '100%',
             chartPadding: 4,

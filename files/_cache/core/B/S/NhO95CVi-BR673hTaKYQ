@@ -1,6 +1,6 @@
-1688185096
+1688187222
 6fcf2aae8df0c5b8a63edd6be1cf0b87f2fa02e6
-a:1:{s:60:"top_ticket_ITILCategory_37736ba9-d429-4cb3-9058-ef4d111d9269";s:13390:"      <style>
+a:1:{s:60:"top_ticket_ITILCategory_37736ba9-d429-4cb3-9058-ef4d111d9269";s:13408:"      <style>
       #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 {
          background-color: #fbf9f9;
          color: #a97f7f
@@ -137,7 +137,7 @@ a:1:{s:60:"top_ticket_ITILCategory_37736ba9-d429-4cb3-9058-ef4d111d9269";s:13390
       $(function () {
          var chart = new Chartist.Bar(Dashboard.getActiveDashboard().element.find('#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .chart')[0], {
             labels: ["Computer","Network","PM"],
-            series: [{"meta":"Computer","value":3,"url":"\/glpi\/front\/ticket.php?reset&criteria%5B0%5D%5Bfield%5D=7&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset"},{"meta":"Network","value":1,"url":"\/glpi\/front\/ticket.php?reset&criteria%5B0%5D%5Bfield%5D=7&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=2&reset=reset"},{"meta":"PM","value":1,"url":"\/glpi\/front\/ticket.php?reset&criteria%5B0%5D%5Bfield%5D=7&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=9&reset=reset"}],
+            series: [{"meta":"Computer","value":3,"url":"\/it-support\/front\/ticket.php?reset&criteria%5B0%5D%5Bfield%5D=7&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset"},{"meta":"Network","value":1,"url":"\/it-support\/front\/ticket.php?reset&criteria%5B0%5D%5Bfield%5D=7&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=2&reset=reset"},{"meta":"PM","value":1,"url":"\/it-support\/front\/ticket.php?reset&criteria%5B0%5D%5Bfield%5D=7&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=9&reset=reset"}],
          }, {
             width: '100%',
             seriesBarDistance: 10,

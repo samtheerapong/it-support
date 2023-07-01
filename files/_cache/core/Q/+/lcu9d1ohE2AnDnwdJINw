@@ -1,29 +1,29 @@
-1688185095
+1688187222
 b0717013f991f474e1b6362aeb9768f0a59fe553
-a:1:{s:61:"bn_count_SoftwareLicense_e755fd06-283e-4479-ba35-2d548f8f8a90";s:1193:"      <style>
-         #bn_948495831 {
+a:1:{s:61:"bn_count_SoftwareLicense_e755fd06-283e-4479-ba35-2d548f8f8a90";s:1194:"      <style>
+         #bn_63371682 {
             background-color: #27ab3c;
             color: #b1edba;
          }
 
-         #bn_948495831:hover {
+         #bn_63371682:hover {
             background-color: #49d55f;
             border: 1px solid #87e496;
          }
 
-         .theme-dark #bn_948495831 {
+         .theme-dark #bn_63371682 {
             background-color: #b1edba;
             color: #27ab3c;
          }
 
-         .theme-dark #bn_948495831:hover {
+         .theme-dark #bn_63371682:hover {
             background-color: #49d55f;
             color: #b1edba;
             border: 1px solid #87e496;
          }
       </style>
-      <a href='/glpi/front/softwarelicense.php?reset=reset'
-         id="bn_948495831"
+      <a href='/it-support/front/softwarelicense.php?reset=reset'
+         id="bn_63371682"
          class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
          title="">
          <span class="content">            <span title="0"

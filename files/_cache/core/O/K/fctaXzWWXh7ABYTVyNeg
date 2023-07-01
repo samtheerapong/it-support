@@ -1,6 +1,6 @@
-1688185108
+1688187226
 3463fc0ef46883c613f7ba2aaab995c593ba9611
-a:1:{s:64:"count_Computer_Manufacturer_986e92e8-32e8-4a6f-806f-6f5383acbb3f";s:16328:"      <style>
+a:1:{s:64:"count_Computer_Manufacturer_986e92e8-32e8-4a6f-806f-6f5383acbb3f";s:16358:"      <style>
       #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 {
          background-color: #f3f5f1;
          color: #8da07a
@@ -177,7 +177,7 @@ a:1:{s:64:"count_Computer_Manufacturer_986e92e8-32e8-4a6f-806f-6f5383acbb3f";s:1
       $(function () {
          var chart = new Chartist.Bar(Dashboard.getActiveDashboard().element.find('#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .chart')[0], {
             labels: ["Dell","Hewlett-Packard","HP","Dell Inc.","without"],
-            series: [{"meta":"Dell","value":9,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=99&reset=reset"},{"meta":"Hewlett-Packard","value":9,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=87&reset=reset"},{"meta":"HP","value":8,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=32&reset=reset"},{"meta":"Dell Inc.","value":4,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=88&reset=reset"},{"meta":"without","value":2,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=0&reset=reset"}],
+            series: [{"meta":"Dell","value":9,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=99&reset=reset"},{"meta":"Hewlett-Packard","value":9,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=87&reset=reset"},{"meta":"HP","value":8,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=32&reset=reset"},{"meta":"Dell Inc.","value":4,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=88&reset=reset"},{"meta":"without","value":2,"url":"\/it-support\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=0&reset=reset"}],
          }, {
             width: '100%',
             seriesBarDistance: 10,

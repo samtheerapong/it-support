@@ -1,29 +1,29 @@
-1688185108
+1688187226
 e4c6e9a693b5676bc3c51dba3fcd436a423cd67c
-a:1:{s:51:"bn_count_Phone_c31fde2d-510a-4482-b17d-2f65b61eae08";s:1179:"      <style>
-         #bn_168292637 {
+a:1:{s:51:"bn_count_Phone_c31fde2d-510a-4482-b17d-2f65b61eae08";s:1185:"      <style>
+         #bn_539297351 {
             background-color: #a0cec2;
             color: #376b5d;
          }
 
-         #bn_168292637:hover {
+         #bn_539297351:hover {
             background-color: #6eb4a2;
             border: 1px solid #488d7b;
          }
 
-         .theme-dark #bn_168292637 {
+         .theme-dark #bn_539297351 {
             background-color: #376b5d;
             color: #a0cec2;
          }
 
-         .theme-dark #bn_168292637:hover {
+         .theme-dark #bn_539297351:hover {
             background-color: #6eb4a2;
             color: #376b5d;
             border: 1px solid #488d7b;
          }
       </style>
-      <a href='/glpi/front/phone.php?reset=reset'
-         id="bn_168292637"
+      <a href='/it-support/front/phone.php?reset=reset'
+         id="bn_539297351"
          class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
          title="">
          <span class="content">            <span title="0"

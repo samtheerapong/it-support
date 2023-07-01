@@ -1,29 +1,29 @@
-1688185096
+1688187223
 1b43301e005ecccb188f578ed27f55965e8b1883
-a:1:{s:53:"bn_count_Profile_770b35e8-68e9-4b4f-9e09-5a11058f069f";s:1101:"      <style>
-         #bn_1902044378 {
+a:1:{s:53:"bn_count_Profile_770b35e8-68e9-4b4f-9e09-5a11058f069f";s:1102:"      <style>
+         #bn_972340441 {
             background-color: #e0e0e0;
             color: #7a7a7a;
          }
 
-         #bn_1902044378:hover {
+         #bn_972340441:hover {
             background-color: #bababa;
             border: 1px solid #949494;
          }
 
-         .theme-dark #bn_1902044378 {
+         .theme-dark #bn_972340441 {
             background-color: #7a7a7a;
             color: #e0e0e0;
          }
 
-         .theme-dark #bn_1902044378:hover {
+         .theme-dark #bn_972340441:hover {
             background-color: #bababa;
             color: #7a7a7a;
             border: 1px solid #949494;
          }
       </style>
-      <a href='/glpi/front/profile.php?reset=reset'
-         id="bn_1902044378"
+      <a href='/it-support/front/profile.php?reset=reset'
+         id="bn_972340441"
          class="card big-number  filter-dates filter-dates_mod"
          title="">
          <span class="content">            <span title="8"

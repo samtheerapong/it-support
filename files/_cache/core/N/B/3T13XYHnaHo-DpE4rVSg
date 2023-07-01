@@ -1,29 +1,29 @@
-1688185108
+1688187226
 b24f31a36304263c583e7eaf4ba4e385fad58391
-a:1:{s:55:"bn_count_Enclosure_c21ce30a-58c3-456a-81ec-3c5f01527a8f";s:1155:"      <style>
-         #bn_203006884 {
+a:1:{s:55:"bn_count_Enclosure_c21ce30a-58c3-456a-81ec-3c5f01527a8f";s:1156:"      <style>
+         #bn_88644474 {
             background-color: #d7e8e4;
             color: #599a8b;
          }
 
-         #bn_203006884:hover {
+         #bn_88644474:hover {
             background-color: #a6ccc3;
             border: 1px solid #76b0a2;
          }
 
-         .theme-dark #bn_203006884 {
+         .theme-dark #bn_88644474 {
             background-color: #599a8b;
             color: #d7e8e4;
          }
 
-         .theme-dark #bn_203006884:hover {
+         .theme-dark #bn_88644474:hover {
             background-color: #a6ccc3;
             color: #599a8b;
             border: 1px solid #76b0a2;
          }
       </style>
-      <a href='/glpi/front/enclosure.php?reset=reset'
-         id="bn_203006884"
+      <a href='/it-support/front/enclosure.php?reset=reset'
+         id="bn_88644474"
          class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
          title="">
          <span class="content">            <span title="0"

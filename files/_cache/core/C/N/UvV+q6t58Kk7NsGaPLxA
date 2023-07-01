@@ -1,29 +1,29 @@
-1688185108
+1688187226
 9d9a29277be6701d6036763a288fe2d4150aa984
-a:1:{s:49:"bn_count_PDU_60053eb6-8dda-4416-9a4b-afd51889bd09";s:1134:"      <style>
-         #bn_105544413 {
+a:1:{s:49:"bn_count_PDU_60053eb6-8dda-4416-9a4b-afd51889bd09";s:1145:"      <style>
+         #bn_1643183573 {
             background-color: #ffb62f;
             color: #624000;
          }
 
-         #bn_105544413:hover {
+         #bn_1643183573:hover {
             background-color: #e29200;
             border: 1px solid #956100;
          }
 
-         .theme-dark #bn_105544413 {
+         .theme-dark #bn_1643183573 {
             background-color: #624000;
             color: #ffb62f;
          }
 
-         .theme-dark #bn_105544413:hover {
+         .theme-dark #bn_1643183573:hover {
             background-color: #e29200;
             color: #624000;
             border: 1px solid #956100;
          }
       </style>
-      <a href='/glpi/front/pdu.php?reset=reset'
-         id="bn_105544413"
+      <a href='/it-support/front/pdu.php?reset=reset'
+         id="bn_1643183573"
          class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
          title="">
          <span class="content">            <span title="0"

@@ -1,6 +1,6 @@
-1688185109
+1688187226
 851bad0ba60dc8cd751f4967ded7084a5c7a8225
-a:1:{s:72:"count_NetworkEquipment_Manufacturer_8132b21c-6f7f-4dc1-af54-bea794cb96e9";s:7952:"      <style>
+a:1:{s:72:"count_NetworkEquipment_Manufacturer_8132b21c-6f7f-4dc1-af54-bea794cb96e9";s:7958:"      <style>
       #chart_dashboard_card_assets_c43266138fba5c49c647fafc5300c5a2aa4038c0 {
          background-color: #fcf8ed;
          color: #dfb43e
@@ -43,7 +43,7 @@ a:1:{s:72:"count_NetworkEquipment_Manufacturer_8132b21c-6f7f-4dc1-af54-bea794cb9
       $(function () {
          var chart = new Chartist.Bar(Dashboard.getActiveDashboard().element.find('#chart_dashboard_card_assets_c43266138fba5c49c647fafc5300c5a2aa4038c0 .chart')[0], {
             labels: ["Ruijie"],
-            series: [{"meta":"Ruijie","value":9,"url":"\/glpi\/front\/networkequipment.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=72&reset=reset"}],
+            series: [{"meta":"Ruijie","value":9,"url":"\/it-support\/front\/networkequipment.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=72&reset=reset"}],
          }, {
             width: '100%',
             seriesBarDistance: 10,

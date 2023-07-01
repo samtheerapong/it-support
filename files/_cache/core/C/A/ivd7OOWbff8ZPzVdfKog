@@ -1,6 +1,6 @@
-1688185097
+1688187223
 3356b2249f89c8be3b08befd95b51d91c1546748
-a:1:{s:65:"count_NetworkEquipment_State_81f2ae35-b366-4065-ac26-02ea4e3704a6";s:8835:"      <style>
+a:1:{s:65:"count_NetworkEquipment_State_81f2ae35-b366-4065-ac26-02ea4e3704a6";s:8841:"      <style>
          #chart-dashboard_card_central_ca3c79212ed02e21bb4b8fa5a1deabc691adf455 {
             background-color: #f5f3ef;
             color: #a79571
@@ -90,7 +90,7 @@ a:1:{s:65:"count_NetworkEquipment_State_81f2ae35-b366-4065-ac26-02ea4e3704a6";s:
       $(function () {
          var chart = new Chartist.Pie(Dashboard.getActiveDashboard().element.find('#chart-dashboard_card_central_ca3c79212ed02e21bb4b8fa5a1deabc691adf455 .chart')[0], {
             labels: ["Online"],
-            series: [{"meta":"Online","value":9,"url":"\/glpi\/front\/networkequipment.php?reset&criteria%5B0%5D%5Bfield%5D=31&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset"}],
+            series: [{"meta":"Online","value":9,"url":"\/it-support\/front\/networkequipment.php?reset&criteria%5B0%5D%5Bfield%5D=31&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset"}],
          }, {
             width: '100%',
             chartPadding: 4,

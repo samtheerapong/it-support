@@ -1,6 +1,6 @@
-1688185109
+1688187226
 11d1dac090c8545452918cbf5b427ec8c40c14e1
-a:1:{s:63:"count_Monitor_Manufacturer_43b0c16b-af82-418e-aac1-f32b39705c0d";s:15179:"      <style>
+a:1:{s:63:"count_Monitor_Manufacturer_43b0c16b-af82-418e-aac1-f32b39705c0d";s:15209:"      <style>
          #chart-dashboard_card_assets_a9b765a59fe2342f423418027c2dbcf058a9d5a8 {
             background-color: #f9fbfb;
             color: #7fa9a9
@@ -170,7 +170,7 @@ a:1:{s:63:"count_Monitor_Manufacturer_43b0c16b-af82-418e-aac1-f32b39705c0d";s:15
       $(function () {
          var chart = new Chartist.Pie(Dashboard.getActiveDashboard().element.find('#chart-dashboard_card_assets_a9b765a59fe2342f423418027c2dbcf058a9d5a8 .chart')[0], {
             labels: ["Hewlett Packard","Dell Inc.","Dell","Samsung Electric Company","ITE"],
-            series: [{"meta":"Hewlett Packard","value":14,"url":"\/glpi\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=178&reset=reset"},{"meta":"Dell Inc.","value":13,"url":"\/glpi\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=88&reset=reset"},{"meta":"Dell","value":4,"url":"\/glpi\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=99&reset=reset"},{"meta":"Samsung Electric Company","value":3,"url":"\/glpi\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=277&reset=reset"},{"meta":"ITE","value":1,"url":"\/glpi\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=285&reset=reset"}],
+            series: [{"meta":"Hewlett Packard","value":14,"url":"\/it-support\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=178&reset=reset"},{"meta":"Dell Inc.","value":13,"url":"\/it-support\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=88&reset=reset"},{"meta":"Dell","value":4,"url":"\/it-support\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=99&reset=reset"},{"meta":"Samsung Electric Company","value":3,"url":"\/it-support\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=277&reset=reset"},{"meta":"ITE","value":1,"url":"\/it-support\/front\/monitor.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=285&reset=reset"}],
          }, {
             width: '100%',
             chartPadding: 4,
