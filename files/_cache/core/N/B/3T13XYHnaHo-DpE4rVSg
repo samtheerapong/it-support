@@ -1,29 +1,29 @@
-1688187226
+1688188099
 b24f31a36304263c583e7eaf4ba4e385fad58391
-a:1:{s:55:"bn_count_Enclosure_c21ce30a-58c3-456a-81ec-3c5f01527a8f";s:1156:"      <style>
-         #bn_88644474 {
+a:1:{s:55:"bn_count_Enclosure_c21ce30a-58c3-456a-81ec-3c5f01527a8f";s:1161:"      <style>
+         #bn_363433783 {
             background-color: #d7e8e4;
             color: #599a8b;
          }
 
-         #bn_88644474:hover {
+         #bn_363433783:hover {
             background-color: #a6ccc3;
             border: 1px solid #76b0a2;
          }
 
-         .theme-dark #bn_88644474 {
+         .theme-dark #bn_363433783 {
             background-color: #599a8b;
             color: #d7e8e4;
          }
 
-         .theme-dark #bn_88644474:hover {
+         .theme-dark #bn_363433783:hover {
             background-color: #a6ccc3;
             color: #599a8b;
             border: 1px solid #76b0a2;
          }
       </style>
       <a href='/it-support/front/enclosure.php?reset=reset'
-         id="bn_88644474"
+         id="bn_363433783"
          class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
          title="">
          <span class="content">            <span title="0"

@@ -1,29 +1,29 @@
-1688187226
+1688188099
 cae1928d3fbc71ab7a619127cd2712226ac28ae5
 a:1:{s:62:"bn_count_NetworkEquipment_76f1e239-777b-4552-b053-ae5c64190347";s:1253:"      <style>
-         #bn_109489446 {
+         #bn_749522713 {
             background-color: #c8dae4;
             color: #4a7b96;
          }
 
-         #bn_109489446:hover {
+         #bn_749522713:hover {
             background-color: #95b7cb;
             border: 1px solid #6195b2;
          }
 
-         .theme-dark #bn_109489446 {
+         .theme-dark #bn_749522713 {
             background-color: #4a7b96;
             color: #c8dae4;
          }
 
-         .theme-dark #bn_109489446:hover {
+         .theme-dark #bn_749522713:hover {
             background-color: #95b7cb;
             color: #4a7b96;
             border: 1px solid #6195b2;
          }
       </style>
       <a href='/it-support/front/networkequipment.php?reset=reset'
-         id="bn_109489446"
+         id="bn_749522713"
          class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
          title="">
          <span class="content">            <span title="9"

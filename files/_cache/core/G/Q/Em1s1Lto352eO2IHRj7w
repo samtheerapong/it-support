@@ -1,29 +1,29 @@
-1688187226
+1688188099
 79b410f1be0648a1a72527b0335a06500f1fc5a3
 a:1:{s:53:"bn_count_Printer_c9a385d4-76a3-4971-ad0e-1470efeafacc";s:1203:"      <style>
-         #bn_305239592 {
+         #bn_932381500 {
             background-color: #5da8d6;
             color: #153b52;
          }
 
-         #bn_305239592:hover {
+         #bn_932381500:hover {
             background-color: #2f84b8;
             border: 1px solid #1f587b;
          }
 
-         .theme-dark #bn_305239592 {
+         .theme-dark #bn_932381500 {
             background-color: #153b52;
             color: #5da8d6;
          }
 
-         .theme-dark #bn_305239592:hover {
+         .theme-dark #bn_932381500:hover {
             background-color: #2f84b8;
             color: #153b52;
             border: 1px solid #1f587b;
          }
       </style>
       <a href='/it-support/front/printer.php?reset=reset'
-         id="bn_305239592"
+         id="bn_932381500"
          class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
          title="">
          <span class="content">            <span title="17"

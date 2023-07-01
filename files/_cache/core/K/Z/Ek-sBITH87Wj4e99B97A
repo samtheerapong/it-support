@@ -1,29 +1,29 @@
-1688187226
+1688188099
 adf9987664c2c68401fd58767d04b94b2b933894
 a:1:{s:61:"bn_count_SoftwareLicense_576e58fe-a386-480f-b405-1c2315b8ab47";s:1204:"      <style>
-         #bn_1719371572 {
+         #bn_1103157775 {
             background-color: #9bc06b;
             color: #32431c;
          }
 
-         #bn_1719371572:hover {
+         #bn_1103157775:hover {
             background-color: #759c42;
             border: 1px solid #4d662c;
          }
 
-         .theme-dark #bn_1719371572 {
+         .theme-dark #bn_1103157775 {
             background-color: #32431c;
             color: #9bc06b;
          }
 
-         .theme-dark #bn_1719371572:hover {
+         .theme-dark #bn_1103157775:hover {
             background-color: #759c42;
             color: #32431c;
             border: 1px solid #4d662c;
          }
       </style>
       <a href='/it-support/front/softwarelicense.php?reset=reset'
-         id="bn_1719371572"
+         id="bn_1103157775"
          class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
          title="">
          <span class="content">            <span title="0"
