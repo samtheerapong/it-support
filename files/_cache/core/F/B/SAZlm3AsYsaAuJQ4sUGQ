@@ -1,0 +1,37 @@
+1682736946
+1f361d61a9b6af3c9a02a57d27559dd1bca0a2c4
+a:1:{s:50:"bn_count_Rack_0fdc196f-20d2-4f63-9ddb-b75c165cc664";s:1146:"      <style>
+         #bn_1635119855 {
+            background-color: #f7d79a;
+            color: #b77d0e;
+         }
+
+         #bn_1635119855:hover {
+            background-color: #f1bb53;
+            border: 1px solid #e69d12;
+         }
+
+         .theme-dark #bn_1635119855 {
+            background-color: #b77d0e;
+            color: #f7d79a;
+         }
+
+         .theme-dark #bn_1635119855:hover {
+            background-color: #f1bb53;
+            color: #b77d0e;
+            border: 1px solid #e69d12;
+         }
+      </style>
+      <a href='/glpi/front/rack.php?reset=reset'
+         id="bn_1635119855"
+         class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
+         title="">
+         <span class="content">            <span title="7"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">7</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Racks">Racks</div>
+         <i class="main-icon ti ti-server"></i>
+      </a>";}

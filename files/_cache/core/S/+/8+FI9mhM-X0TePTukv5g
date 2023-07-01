@@ -1,0 +1,37 @@
+1686895385
+dab6096d0225edd8eb9ea4ea6dc0196bdd6af19e
+a:1:{s:68:"plugin_glpiinventory_nb_printer_8ef7ecb2-3e94-4a85-b850-d08befd90c0a";s:1240:"      <style>
+         #bn_1149509414 {
+            background-color: #606f91;
+            color: #d8dce5;
+         }
+
+         #bn_1149509414:hover {
+            background-color: #8b97b2;
+            border: 1px solid #b9c0d1;
+         }
+
+         .theme-dark #bn_1149509414 {
+            background-color: #d8dce5;
+            color: #606f91;
+         }
+
+         .theme-dark #bn_1149509414:hover {
+            background-color: #8b97b2;
+            color: #d8dce5;
+            border: 1px solid #b9c0d1;
+         }
+      </style>
+      <a href='/glpi/front/printer.php?criteria%5B0%5D%5Blink%5D=AND&criteria%5B0%5D%5Bfield%5D=72&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset'
+         id="bn_1149509414"
+         class="card big-number "
+         title="">
+         <span class="content">            <span title="14"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">14</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="ปริ้นเตอร์ inventoried">ปริ้นเตอร์ inventoried</div>
+         <i class="main-icon ti ti-printer"></i>
+      </a>";}

@@ -1,0 +1,37 @@
+1682736946
+7a9ad1618f4d78eb1b6e49bb734bb8c93d9be72d
+a:1:{s:51:"bn_count_Phone_c31fde2d-510a-4482-b17d-2f65b61eae08";s:1148:"      <style>
+         #bn_1373820496 {
+            background-color: #a0cec2;
+            color: #376b5d;
+         }
+
+         #bn_1373820496:hover {
+            background-color: #6eb4a2;
+            border: 1px solid #488d7b;
+         }
+
+         .theme-dark #bn_1373820496 {
+            background-color: #376b5d;
+            color: #a0cec2;
+         }
+
+         .theme-dark #bn_1373820496:hover {
+            background-color: #6eb4a2;
+            color: #376b5d;
+            border: 1px solid #488d7b;
+         }
+      </style>
+      <a href='/glpi/front/phone.php?reset=reset'
+         id="bn_1373820496"
+         class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Phones">Phones</div>
+         <i class="main-icon ti ti-phone"></i>
+      </a>";}

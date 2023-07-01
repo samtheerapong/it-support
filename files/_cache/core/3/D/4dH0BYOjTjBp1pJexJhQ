@@ -1,0 +1,37 @@
+1679275788
+b00855eb7b1bd846e936bbe7f25f0b7228f0dc5a
+a:1:{s:69:"plugin_glpiinventory_nb_computer_0c87bc96-1c02-4d0a-a601-800391eb41b6";s:1198:"      <style>
+         #bn_843546283 {
+            background-color: #606f91;
+            color: #d8dce5;
+         }
+
+         #bn_843546283:hover {
+            background-color: #8b97b2;
+            border: 1px solid #b9c0d1;
+         }
+
+         .theme-dark #bn_843546283 {
+            background-color: #d8dce5;
+            color: #606f91;
+         }
+
+         .theme-dark #bn_843546283:hover {
+            background-color: #8b97b2;
+            color: #d8dce5;
+            border: 1px solid #b9c0d1;
+         }
+      </style>
+      <a href='/glpi/front/computer.php?criteria%5B0%5D%5Blink%5D=AND&criteria%5B0%5D%5Bfield%5D=42&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset'
+         id="bn_843546283"
+         class="card big-number "
+         title="">
+         <span class="content">            <span title="2"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">2</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Computers inventoried">Computers inventoried</div>
+         <i class="main-icon ti ti-device-laptop"></i>
+      </a>";}

@@ -1,0 +1,37 @@
+1679276013
+4d206e8075a6314d4511d70ef1b1545fcecc6fb1
+a:1:{s:66:"plugin_glpiinventory_nb_phone_cfa21c82-3108-4c25-a1c7-1db5866f2d88";s:1181:"      <style>
+         #bn_549113252 {
+            background-color: #606f91;
+            color: #d8dce5;
+         }
+
+         #bn_549113252:hover {
+            background-color: #8b97b2;
+            border: 1px solid #b9c0d1;
+         }
+
+         .theme-dark #bn_549113252 {
+            background-color: #d8dce5;
+            color: #606f91;
+         }
+
+         .theme-dark #bn_549113252:hover {
+            background-color: #8b97b2;
+            color: #d8dce5;
+            border: 1px solid #b9c0d1;
+         }
+      </style>
+      <a href='/glpi/front/phone.php?criteria%5B0%5D%5Blink%5D=AND&criteria%5B0%5D%5Bfield%5D=72&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset'
+         id="bn_549113252"
+         class="card big-number "
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Phones inventoried">Phones inventoried</div>
+         <i class="main-icon ti ti-phone"></i>
+      </a>";}

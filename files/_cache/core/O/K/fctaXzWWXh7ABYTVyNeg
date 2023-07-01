@@ -1,0 +1,363 @@
+1688185108
+3463fc0ef46883c613f7ba2aaab995c593ba9611
+a:1:{s:64:"count_Computer_Manufacturer_986e92e8-32e8-4a6f-806f-6f5383acbb3f";s:16328:"      <style>
+      #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 {
+         background-color: #f3f5f1;
+         color: #8da07a
+      }
+
+      .theme-dark #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 {
+         background-color: #272e21;
+         color: #8da07a;
+      }
+
+      #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-label {
+         color: #8da07a;
+      }
+
+      .theme-dark #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-label {
+         color: #8da07a;
+      }
+
+      #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-grid {
+         stroke: #dae0d3;
+      }
+
+      .theme-dark #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-grid {
+         stroke: #0e100b;
+      }
+
+      #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 {
+  /*!
+ * ---------------------------------------------------------------------
+ *
+ * GLPI - Gestionnaire Libre de Parc Informatique
+ *
+ * http://glpi-project.org
+ *
+ * @copyright 2015-2023 Teclib' and contributors.
+ * @copyright 2003-2014 by the INDEPNET Development Team.
+ * @licence   https://www.gnu.org/licenses/gpl-3.0.html
+ *
+ * ---------------------------------------------------------------------
+ *
+ * LICENSE
+ *
+ * This file is part of GLPI.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ *
+ * ---------------------------------------------------------------------
+ */
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-a .ct-point, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-a .ct-line, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-a .ct-bar, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-a .ct-slice-donut {
+  stroke: #adc992;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-a .ct-bar + .ct-barlabel {
+  fill: setcolor(#adc992);
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-a .ct-circle {
+  fill: #adc992;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-a .ct-circle + .ct-label {
+  fill: #adc992;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-a .ct-slice-pie, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-a .ct-area, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-a .ct-slice-donut-solid {
+  fill: #adc992;
+  stroke: setcolor(#adc992);
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-0:before {
+  background-color: #adc992;
+  border-color: #adc992;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-b .ct-point, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-b .ct-line, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-b .ct-bar, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-b .ct-slice-donut {
+  stroke: #8fb964;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-b .ct-bar + .ct-barlabel {
+  fill: setcolor(#8fb964);
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-b .ct-circle {
+  fill: #8fb964;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-b .ct-circle + .ct-label {
+  fill: #8fb964;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-b .ct-slice-pie, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-b .ct-area, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-b .ct-slice-donut-solid {
+  fill: #8fb964;
+  stroke: setcolor(#8fb964);
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-1:before {
+  background-color: #8fb964;
+  border-color: #8fb964;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-c .ct-point, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-c .ct-line, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-c .ct-bar, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-c .ct-slice-donut {
+  stroke: #709f41;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-c .ct-bar + .ct-barlabel {
+  fill: setcolor(#709f41);
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-c .ct-circle {
+  fill: #709f41;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-c .ct-circle + .ct-label {
+  fill: #709f41;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-c .ct-slice-pie, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-c .ct-area, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-c .ct-slice-donut-solid {
+  fill: #709f41;
+  stroke: setcolor(#709f41);
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-2:before {
+  background-color: #709f41;
+  border-color: #709f41;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-d .ct-point, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-d .ct-line, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-d .ct-bar, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-d .ct-slice-donut {
+  stroke: #52772c;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-d .ct-bar + .ct-barlabel {
+  fill: setcolor(#52772c);
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-d .ct-circle {
+  fill: #52772c;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-d .ct-circle + .ct-label {
+  fill: #52772c;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-d .ct-slice-pie, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-d .ct-area, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-d .ct-slice-donut-solid {
+  fill: #52772c;
+  stroke: setcolor(#52772c);
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-3:before {
+  background-color: #52772c;
+  border-color: #52772c;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-e .ct-point, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-e .ct-line, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-e .ct-bar, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-e .ct-slice-donut {
+  stroke: #334d1a;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-e .ct-bar + .ct-barlabel {
+  fill: setcolor(#334d1a);
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-e .ct-circle {
+  fill: #334d1a;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-e .ct-circle + .ct-label {
+  fill: #334d1a;
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-e .ct-slice-pie, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-e .ct-area, #chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-e .ct-slice-donut-solid {
+  fill: #334d1a;
+  stroke: setcolor(#334d1a);
+}
+#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series-4:before {
+  background-color: #334d1a;
+  border-color: #334d1a;
+}
+
+      </style>
+
+      <div style="height: 100%">
+         <div class="card g-chart bar horizontal distributed tab20 filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
+               id="chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83">
+            <div class="chart ct-chart"></div>
+            <span class="main-label">คอมพิวเตอร์ by ผู้ผลิต</span>
+            <i class="main-icon ti ti-edit"></i>
+         </div>
+      </div><script type="text/javascript">
+//<![CDATA[
+
+      $(function () {
+         var chart = new Chartist.Bar(Dashboard.getActiveDashboard().element.find('#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .chart')[0], {
+            labels: ["Dell","Hewlett-Packard","HP","Dell Inc.","without"],
+            series: [{"meta":"Dell","value":9,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=99&reset=reset"},{"meta":"Hewlett-Packard","value":9,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=87&reset=reset"},{"meta":"HP","value":8,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=32&reset=reset"},{"meta":"Dell Inc.","value":4,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=88&reset=reset"},{"meta":"without","value":2,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=0&reset=reset"}],
+         }, {
+            width: '100%',
+            seriesBarDistance: 10,
+            chartPadding: 0,
+            
+            distributeSeries: true,
+            
+            horizontalBars: true,
+            axisY: {
+               offset: 100
+            },
+            axisX: {
+               onlyInteger: true
+            },
+         
+            
+            
+            plugins: [
+               
+               Chartist.plugins.tooltip({
+                  appendToBody: true,
+                  class: 'dashboard-tooltip'
+               })
+            ]
+         });
+
+         var is_horizontal = chart.options.horizontalBars;
+         var is_vertical   = !is_horizontal;
+         var is_stacked    = chart.options.stackBars;
+         var nb_elements   = chart.data.labels.length;
+         var nb_series     = chart.data.series.length;
+         var bar_margin    = chart.options.seriesBarDistance;
+         var point_labels  = false;
+         var is_multiple   = false;
+
+         if (!chart.options.stackBars
+             && chart.data.series.length > 0
+             && chart.data.series[0].hasOwnProperty('data')) {
+            nb_elements = nb_elements * chart.data.series.length;
+            bar_margin += 1;
+         }
+
+         chart.on('draw', function(data) {
+            if (data.type === 'bar') {
+               // set url redirecting on bar
+               var url = _.get(data, 'series['+data.index+'].url')
+                  || _.get(data, 'series.data['+data.index+'].url')
+                  || _.get(data, 'series.url')
+                  || "";
+               if (url.length > 0) {
+                  data.element.attr({
+                     'data-clickable': true
+                  });
+                  data.element._node.onclick = function() {
+                     if (!Dashboard.getActiveDashboard().edit_mode) {
+                        window.location = url;
+                     }
+                  }
+               }
+
+               var chart_height = data.chartRect.height();
+               var chart_width = data.chartRect.width();
+
+               var stroke_width = chart_width / nb_elements;
+               if (is_horizontal) {
+                  stroke_width = chart_height / nb_elements;
+               }
+
+               if (!chart.options.stackBars
+                  && chart.data.series.length > 0 && is_vertical) {
+                  stroke_width -= bar_margin * nb_elements;
+               } else {
+                  stroke_width -= bar_margin;
+               }
+               data.element.attr({
+                  'style': 'stroke-width: '+stroke_width+'px'
+               });
+
+               var axis_anim = 'y';
+               if (true) {
+                  axis_anim = 'x';
+               }
+
+               var animate_properties = {
+                  opacity: {
+                     dur: 1000,
+                     from: 0,
+                     to: 1,
+                     easing: Chartist.Svg.Easing.easeOutQuint
+                  }
+               };
+               animate_properties[axis_anim+'2'] = {
+                  dur: 1000,
+                  from: data[axis_anim+'1'],
+                  to: data[axis_anim+'2'],
+                  easing: Chartist.Svg.Easing.easeOutQuint
+               };
+               data.element.animate(animate_properties);
+
+               // append labels
+               var display_labels = true;
+               var labelX = 0;
+               var labelY = 0;
+               var value = data.element.attr('ct:value').toString();
+               var text_anchor = 'middle';
+
+               if (is_vertical) {
+                  labelX = data.x2;
+                  labelY = data.y2 + 15;
+
+                  if (is_multiple) {
+                     labelY = data.y2 - 5;
+                  } else if (data.y1 - data.y2 < 18) {
+                     display_labels = false;
+                  }
+               }
+
+               if (is_horizontal) {
+                  var word_width = value.length * 5 + 5;
+                  var bar_width = 0;
+
+                  if (value > 0) {
+                     labelX = data.x2 - word_width;
+                     bar_width = data.x2 - data.x1;
+                  } else {
+                     labelX = data.x2 + word_width;
+                     bar_width = data.x1 - data.x2;
+                  }
+                  labelY = data.y2;
+
+                  // don't display label if width too short
+                  if (bar_width < word_width) {
+                     display_labels = false;
+                  }
+               }
+
+               if (is_stacked) {
+                  labelY = data.y2 + 15;
+
+                  // don't display label if height too short
+                  if (is_horizontal) {
+                     if (data.x2 - data.x1 < 15) {
+                        display_labels = false;
+                     }
+                  } else {
+                     if (data.y1 - data.y2 < 15) {
+                        display_labels = false;
+                     }
+                  }
+               }
+
+               // don't display label if value is not relevant
+               if (value == 0 || !point_labels) {
+                  display_labels = false;
+               }
+
+               if (display_labels) {
+                  label = new Chartist.Svg('text');
+                  label.text(value);
+                  label.addClass("ct-barlabel");
+                  label.attr({
+                     x: labelX,
+                     y: labelY,
+                     'text-anchor': text_anchor
+                  });
+                  return data.group.append(label);
+               }
+            }
+         });
+
+         chart.on('created', function(bar) {
+            $('#chart_dashboard_card_assets_4ae5aec74e0c6b114ee54aaa1d9a16e7e04f3a83 .ct-series')
+               .mouseover(function() {
+                  $(this).siblings().children().css('stroke-opacity', "0.2");
+               })
+               .mouseout(function() {
+                  $(this).siblings().children().css('stroke-opacity', "1");
+               });
+         });
+      });
+
+//]]>
+</script>";}

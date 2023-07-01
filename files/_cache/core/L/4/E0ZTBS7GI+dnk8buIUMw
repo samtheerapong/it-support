@@ -1,0 +1,137 @@
+0
+e3ad3c2799f7c405bb4d007ca3e3313a792bdc3b
+s:8242:".dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 {
+  /*!
+ * ---------------------------------------------------------------------
+ *
+ * GLPI - Gestionnaire Libre de Parc Informatique
+ *
+ * http://glpi-project.org
+ *
+ * @copyright 2015-2023 Teclib' and contributors.
+ * @copyright 2003-2014 by the INDEPNET Development Team.
+ * @licence   https://www.gnu.org/licenses/gpl-3.0.html
+ *
+ * ---------------------------------------------------------------------
+ *
+ * LICENSE
+ *
+ * This file is part of GLPI.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ *
+ * ---------------------------------------------------------------------
+ */
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-a .ct-point, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-a .ct-line, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-a .ct-bar, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-a .ct-slice-donut {
+  stroke: #6d3636;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-a .ct-bar + .ct-barlabel {
+  fill: setcolor(#6d3636);
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-a .ct-circle {
+  fill: #6d3636;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-a .ct-circle + .ct-label {
+  fill: #6d3636;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-a .ct-slice-pie, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-a .ct-area, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-a .ct-slice-donut-solid {
+  fill: #6d3636;
+  stroke: setcolor(#6d3636);
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-0:before {
+  background-color: #6d3636;
+  border-color: #6d3636;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-b .ct-point, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-b .ct-line, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-b .ct-bar, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-b .ct-slice-donut {
+  stroke: #964b4b;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-b .ct-bar + .ct-barlabel {
+  fill: setcolor(#964b4b);
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-b .ct-circle {
+  fill: #964b4b;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-b .ct-circle + .ct-label {
+  fill: #964b4b;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-b .ct-slice-pie, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-b .ct-area, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-b .ct-slice-donut-solid {
+  fill: #964b4b;
+  stroke: setcolor(#964b4b);
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-1:before {
+  background-color: #964b4b;
+  border-color: #964b4b;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-c .ct-point, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-c .ct-line, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-c .ct-bar, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-c .ct-slice-donut {
+  stroke: #b46969;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-c .ct-bar + .ct-barlabel {
+  fill: setcolor(#b46969);
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-c .ct-circle {
+  fill: #b46969;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-c .ct-circle + .ct-label {
+  fill: #b46969;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-c .ct-slice-pie, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-c .ct-area, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-c .ct-slice-donut-solid {
+  fill: #b46969;
+  stroke: setcolor(#b46969);
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-2:before {
+  background-color: #b46969;
+  border-color: #b46969;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-d .ct-point, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-d .ct-line, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-d .ct-bar, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-d .ct-slice-donut {
+  stroke: #c99292;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-d .ct-bar + .ct-barlabel {
+  fill: setcolor(#c99292);
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-d .ct-circle {
+  fill: #c99292;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-d .ct-circle + .ct-label {
+  fill: #c99292;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-d .ct-slice-pie, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-d .ct-area, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-d .ct-slice-donut-solid {
+  fill: #c99292;
+  stroke: setcolor(#c99292);
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-3:before {
+  background-color: #c99292;
+  border-color: #c99292;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-e .ct-point, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-e .ct-line, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-e .ct-bar, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-e .ct-slice-donut {
+  stroke: #ddbbbb;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-e .ct-bar + .ct-barlabel {
+  fill: setcolor(#ddbbbb);
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-e .ct-circle {
+  fill: #ddbbbb;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-e .ct-circle + .ct-label {
+  fill: #ddbbbb;
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-e .ct-slice-pie, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-e .ct-area, .dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-e .ct-slice-donut-solid {
+  fill: #ddbbbb;
+  stroke: setcolor(#ddbbbb);
+}
+.dashboard #chart-dashboard_card_assets_9ecc7b5453ee3c9c90e0886cdbf92364cd1038a9 .ct-series-4:before {
+  background-color: #ddbbbb;
+  border-color: #ddbbbb;
+}
+";

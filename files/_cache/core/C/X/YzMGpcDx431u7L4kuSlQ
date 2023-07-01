@@ -1,0 +1,37 @@
+1679275788
+5a28ee7845501ab2254a41fc6e95c24d58090c80
+a:1:{s:70:"plugin_glpiinventory_nb_unmanaged_884e4275-a798-4a9f-a18c-95e9b363fd40";s:1083:"      <style>
+         #bn_775825313 {
+            background-color: #e69138;
+            color: #492a09;
+         }
+
+         #bn_775825313:hover {
+            background-color: #ba6b17;
+            border: 1px solid #76440f;
+         }
+
+         .theme-dark #bn_775825313 {
+            background-color: #492a09;
+            color: #e69138;
+         }
+
+         .theme-dark #bn_775825313:hover {
+            background-color: #ba6b17;
+            color: #492a09;
+            border: 1px solid #76440f;
+         }
+      </style>
+      <a href='/glpi/front/unmanaged.php?reset=reset'
+         id="bn_775825313"
+         class="card big-number "
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Number of Unmanaged devices">Number of Unmanaged devices</div>
+         <i class="main-icon ti ti-question-mark"></i>
+      </a>";}

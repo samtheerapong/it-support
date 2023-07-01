@@ -1,0 +1,37 @@
+1688185096
+ce6e4f61280b6a4631d95eb3d90aadbae4a0aa1a
+a:1:{s:62:"bn_count_NetworkEquipment_c537e334-d584-43bc-b6de-b4a939143e89";s:1252:"      <style>
+         #bn_1491355066 {
+            background-color: #bfe7ea;
+            color: #379fa6;
+         }
+
+         #bn_1491355066:hover {
+            background-color: #85d1d7;
+            border: 1px solid #4cbcc4;
+         }
+
+         .theme-dark #bn_1491355066 {
+            background-color: #379fa6;
+            color: #bfe7ea;
+         }
+
+         .theme-dark #bn_1491355066:hover {
+            background-color: #85d1d7;
+            color: #379fa6;
+            border: 1px solid #4cbcc4;
+         }
+      </style>
+      <a href='/glpi/front/networkequipment.php?reset=reset'
+         id="bn_1491355066"
+         class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
+         title="">
+         <span class="content">            <span title="9"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">9</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="อุปกรณ์เน็ตเวร์ค">อุปกรณ์เน็ตเวร์ค</div>
+         <i class="main-icon fas fa-network-wired"></i>
+      </a>";}

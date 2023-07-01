@@ -1,0 +1,303 @@
+1679291586
+154a7ff2d83a7ac2878e91d418c2f472c4feb912
+a:1:{s:60:"top_ticket_ITILCategory_37736ba9-d429-4cb3-9058-ef4d111d9269";s:11925:"      <style>
+      #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 {
+         background-color: #fbf9f9;
+         color: #a97f7f
+      }
+
+      .theme-dark #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 {
+         background-color: #372525;
+         color: #a97f7f;
+      }
+
+      #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-label {
+         color: #a97f7f;
+      }
+
+      .theme-dark #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-label {
+         color: #a97f7f;
+      }
+
+      #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-grid {
+         stroke: #e7dada;
+      }
+
+      .theme-dark #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-grid {
+         stroke: #191010;
+      }
+
+      #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 {
+  /*!
+ * ---------------------------------------------------------------------
+ *
+ * GLPI - Gestionnaire Libre de Parc Informatique
+ *
+ * http://glpi-project.org
+ *
+ * @copyright 2015-2023 Teclib' and contributors.
+ * @copyright 2003-2014 by the INDEPNET Development Team.
+ * @licence   https://www.gnu.org/licenses/gpl-3.0.html
+ *
+ * ---------------------------------------------------------------------
+ *
+ * LICENSE
+ *
+ * This file is part of GLPI.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ *
+ * ---------------------------------------------------------------------
+ */
+}
+#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-a .ct-point, #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-a .ct-line, #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-a .ct-bar, #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-a .ct-slice-donut {
+  stroke: #996666;
+}
+#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-a .ct-bar + .ct-barlabel {
+  fill: setcolor(#996666);
+}
+#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-a .ct-circle {
+  fill: #996666;
+}
+#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-a .ct-circle + .ct-label {
+  fill: #996666;
+}
+#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-a .ct-slice-pie, #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-a .ct-area, #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-a .ct-slice-donut-solid {
+  fill: #996666;
+  stroke: setcolor(#996666);
+}
+#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-0:before {
+  background-color: #996666;
+  border-color: #996666;
+}
+#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-b .ct-point, #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-b .ct-line, #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-b .ct-bar, #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-b .ct-slice-donut {
+  stroke: #3d2929;
+}
+#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-b .ct-bar + .ct-barlabel {
+  fill: setcolor(#3d2929);
+}
+#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-b .ct-circle {
+  fill: #3d2929;
+}
+#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-b .ct-circle + .ct-label {
+  fill: #3d2929;
+}
+#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-b .ct-slice-pie, #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-b .ct-area, #chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-b .ct-slice-donut-solid {
+  fill: #3d2929;
+  stroke: setcolor(#3d2929);
+}
+#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series-1:before {
+  background-color: #3d2929;
+  border-color: #3d2929;
+}
+
+      </style>
+
+      <div style="height: 100%">
+         <div class="card g-chart bar horizontal distributed tab10 filter-dates filter-dates_mod filter-itilcategory filter-group_tech filter-user_tech filter-requesttype filter-location"
+               id="chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7">
+            <div class="chart ct-chart"></div>
+            <span class="main-label">Top ticket's categories</span>
+            <i class="main-icon ti ti-subtask"></i>
+         </div>
+      </div><script type="text/javascript">
+//<![CDATA[
+
+      $(function () {
+         var chart = new Chartist.Bar(Dashboard.getActiveDashboard().element.find('#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .chart')[0], {
+            labels: ["without","Network"],
+            series: [{"meta":"without","value":1,"url":"\/glpi\/front\/ticket.php?reset&criteria%5B0%5D%5Bfield%5D=7&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=0&reset=reset"},{"meta":"Network","value":1,"url":"\/glpi\/front\/ticket.php?reset&criteria%5B0%5D%5Bfield%5D=7&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=2&reset=reset"}],
+         }, {
+            width: '100%',
+            seriesBarDistance: 10,
+            chartPadding: 0,
+            
+            distributeSeries: true,
+            
+            horizontalBars: true,
+            axisY: {
+               offset: 100
+            },
+            axisX: {
+               onlyInteger: true
+            },
+         
+            
+            
+            plugins: [
+               
+               Chartist.plugins.tooltip({
+                  appendToBody: true,
+                  class: 'dashboard-tooltip'
+               })
+            ]
+         });
+
+         var is_horizontal = chart.options.horizontalBars;
+         var is_vertical   = !is_horizontal;
+         var is_stacked    = chart.options.stackBars;
+         var nb_elements   = chart.data.labels.length;
+         var nb_series     = chart.data.series.length;
+         var bar_margin    = chart.options.seriesBarDistance;
+         var point_labels  = false;
+         var is_multiple   = false;
+
+         if (!chart.options.stackBars
+             && chart.data.series.length > 0
+             && chart.data.series[0].hasOwnProperty('data')) {
+            nb_elements = nb_elements * chart.data.series.length;
+            bar_margin += 1;
+         }
+
+         chart.on('draw', function(data) {
+            if (data.type === 'bar') {
+               // set url redirecting on bar
+               var url = _.get(data, 'series['+data.index+'].url')
+                  || _.get(data, 'series.data['+data.index+'].url')
+                  || _.get(data, 'series.url')
+                  || "";
+               if (url.length > 0) {
+                  data.element.attr({
+                     'data-clickable': true
+                  });
+                  data.element._node.onclick = function() {
+                     if (!Dashboard.getActiveDashboard().edit_mode) {
+                        window.location = url;
+                     }
+                  }
+               }
+
+               var chart_height = data.chartRect.height();
+               var chart_width = data.chartRect.width();
+
+               var stroke_width = chart_width / nb_elements;
+               if (is_horizontal) {
+                  stroke_width = chart_height / nb_elements;
+               }
+
+               if (!chart.options.stackBars
+                  && chart.data.series.length > 0 && is_vertical) {
+                  stroke_width -= bar_margin * nb_elements;
+               } else {
+                  stroke_width -= bar_margin;
+               }
+               data.element.attr({
+                  'style': 'stroke-width: '+stroke_width+'px'
+               });
+
+               var axis_anim = 'y';
+               if (true) {
+                  axis_anim = 'x';
+               }
+
+               var animate_properties = {
+                  opacity: {
+                     dur: 1000,
+                     from: 0,
+                     to: 1,
+                     easing: Chartist.Svg.Easing.easeOutQuint
+                  }
+               };
+               animate_properties[axis_anim+'2'] = {
+                  dur: 1000,
+                  from: data[axis_anim+'1'],
+                  to: data[axis_anim+'2'],
+                  easing: Chartist.Svg.Easing.easeOutQuint
+               };
+               data.element.animate(animate_properties);
+
+               // append labels
+               var display_labels = true;
+               var labelX = 0;
+               var labelY = 0;
+               var value = data.element.attr('ct:value').toString();
+               var text_anchor = 'middle';
+
+               if (is_vertical) {
+                  labelX = data.x2;
+                  labelY = data.y2 + 15;
+
+                  if (is_multiple) {
+                     labelY = data.y2 - 5;
+                  } else if (data.y1 - data.y2 < 18) {
+                     display_labels = false;
+                  }
+               }
+
+               if (is_horizontal) {
+                  var word_width = value.length * 5 + 5;
+                  var bar_width = 0;
+
+                  if (value > 0) {
+                     labelX = data.x2 - word_width;
+                     bar_width = data.x2 - data.x1;
+                  } else {
+                     labelX = data.x2 + word_width;
+                     bar_width = data.x1 - data.x2;
+                  }
+                  labelY = data.y2;
+
+                  // don't display label if width too short
+                  if (bar_width < word_width) {
+                     display_labels = false;
+                  }
+               }
+
+               if (is_stacked) {
+                  labelY = data.y2 + 15;
+
+                  // don't display label if height too short
+                  if (is_horizontal) {
+                     if (data.x2 - data.x1 < 15) {
+                        display_labels = false;
+                     }
+                  } else {
+                     if (data.y1 - data.y2 < 15) {
+                        display_labels = false;
+                     }
+                  }
+               }
+
+               // don't display label if value is not relevant
+               if (value == 0 || !point_labels) {
+                  display_labels = false;
+               }
+
+               if (display_labels) {
+                  label = new Chartist.Svg('text');
+                  label.text(value);
+                  label.addClass("ct-barlabel");
+                  label.attr({
+                     x: labelX,
+                     y: labelY,
+                     'text-anchor': text_anchor
+                  });
+                  return data.group.append(label);
+               }
+            }
+         });
+
+         chart.on('created', function(bar) {
+            $('#chart_dashboard_card_central_a922d482218f95b87a221a8836a2f3be33e27fd7 .ct-series')
+               .mouseover(function() {
+                  $(this).siblings().children().css('stroke-opacity', "0.2");
+               })
+               .mouseout(function() {
+                  $(this).siblings().children().css('stroke-opacity', "1");
+               });
+         });
+      });
+
+//]]>
+</script>";}

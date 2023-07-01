@@ -1,0 +1,59 @@
+{#
+ # ---------------------------------------------------------------------
+ # GLPI Inventory Plugin
+ # Copyright (C) 2021 Teclib' and contributors.
+ #
+ # http://glpi-project.org
+ #
+ # based on FusionInventory for GLPI
+ # Copyright (C) 2010-2021 by the FusionInventory Development Team.
+ #
+ # ---------------------------------------------------------------------
+ #
+ # LICENSE
+ #
+ # This file is part of GLPI Inventory Plugin.
+ #
+ # GLPI Inventory Plugin is free software: you can redistribute it and/or modify
+ # it under the terms of the GNU Affero General Public License as published by
+ # the Free Software Foundation, either version 3 of the License, or
+ # (at your option) any later version.
+ #
+ # GLPI Inventory Plugin is distributed in the hope that it will be useful,
+ # but WITHOUT ANY WARRANTY; without even the implied warranty of
+ # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ # GNU Affero General Public License for more details.
+ #
+ # You should have received a copy of the GNU Affero General Public License
+ # along with GLPI Inventory Plugin. If not, see <https://www.gnu.org/licenses/>.
+ # ---------------------------------------------------------------------
+ #}
+   <div class="container">
+      <nav class="rounded navbar navbar-dark justify-content-center navbar-expand-lg mt-n8 mb-3 rounded" style="background-color: #2f3f64;">
+      <ul class="navbar-nav">
+         {% for first_lvl_key, first_lvl in menu %}
+            <li class="nav-item dropdown mx-3">
+               <a class="nav-link dropdown-toggle" href="#" id="{{ first_lvl_key }}_menu"
+                  role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  {% if first_lvl['pic']|length %}
+                     <i class="p-1 {{ first_lvl['pic'] }}"></i>
+                  {% endif %}
+                  <span class="menu-label">{{ first_lvl['name'] }}</span>
+               </a>
+               <ul class="dropdown-menu" aria-labelledby="{{ first_lvl_key }}_menu">
+                  {% for second_lvl in first_lvl['children'] %}
+                     <li>
+                        <a class="dropdown-item text-wrap" href="{{ second_lvl['link'] }}">
+                           {% if second_lvl['pic']|length %}
+                              <i class="{{ second_lvl['pic'] }}"></i>
+                           {% endif %}
+                           <span>{{ second_lvl['name'] }}</span>
+                        </a>
+                     </li>
+                  {% endfor %}
+               </ul>
+            </li>
+         {% endfor %}
+      </ul>
+      </nav>
+   </div>

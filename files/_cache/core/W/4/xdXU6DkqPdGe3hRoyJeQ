@@ -1,0 +1,37 @@
+1688185095
+368bcaf94190785d372fa3b3863a89bd41106a08
+a:1:{s:54:"bn_count_Software_0690f524-e826-47a9-b50a-906451196b83";s:1168:"      <style>
+         #bn_264927131 {
+            background-color: #aaddac;
+            color: #358639;
+         }
+
+         #bn_264927131:hover {
+            background-color: #73c777;
+            border: 1px solid #44aa48;
+         }
+
+         .theme-dark #bn_264927131 {
+            background-color: #358639;
+            color: #aaddac;
+         }
+
+         .theme-dark #bn_264927131:hover {
+            background-color: #73c777;
+            color: #358639;
+            border: 1px solid #44aa48;
+         }
+      </style>
+      <a href='/glpi/front/software.php?reset=reset'
+         id="bn_264927131"
+         class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech"
+         title="">
+         <span class="content">            <span title="2426"
+                  class="formatted-number"
+                  data-precision='1'>
+               <span class="number">2.4</span>
+               <span class="suffix">K</span>
+            </span></span>
+         <div class="label" title="โปรแกรม">โปรแกรม</div>
+         <i class="main-icon ti ti-apps"></i>
+      </a>";}

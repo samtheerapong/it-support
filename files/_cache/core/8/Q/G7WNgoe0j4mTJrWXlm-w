@@ -1,0 +1,97 @@
+0
+9d8a238c2eb55b8d8fa560856d902ac32b6a4845
+s:5112:"#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 {
+  /*!
+ * ---------------------------------------------------------------------
+ *
+ * GLPI - Gestionnaire Libre de Parc Informatique
+ *
+ * http://glpi-project.org
+ *
+ * @copyright 2015-2023 Teclib' and contributors.
+ * @copyright 2003-2014 by the INDEPNET Development Team.
+ * @licence   https://www.gnu.org/licenses/gpl-3.0.html
+ *
+ * ---------------------------------------------------------------------
+ *
+ * LICENSE
+ *
+ * This file is part of GLPI.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ *
+ * ---------------------------------------------------------------------
+ */
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-a .ct-point, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-a .ct-line, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-a .ct-bar, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-a .ct-slice-donut {
+  stroke: #ad8585;
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-a .ct-bar + .ct-barlabel {
+  fill: setcolor(#ad8585);
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-a .ct-circle {
+  fill: #ad8585;
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-a .ct-circle + .ct-label {
+  fill: #ad8585;
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-a .ct-slice-pie, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-a .ct-area, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-a .ct-slice-donut-solid {
+  fill: #ad8585;
+  stroke: setcolor(#ad8585);
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-0:before {
+  background-color: #ad8585;
+  border-color: #ad8585;
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-b .ct-point, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-b .ct-line, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-b .ct-bar, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-b .ct-slice-donut {
+  stroke: #7a5252;
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-b .ct-bar + .ct-barlabel {
+  fill: setcolor(#7a5252);
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-b .ct-circle {
+  fill: #7a5252;
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-b .ct-circle + .ct-label {
+  fill: #7a5252;
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-b .ct-slice-pie, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-b .ct-area, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-b .ct-slice-donut-solid {
+  fill: #7a5252;
+  stroke: setcolor(#7a5252);
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-1:before {
+  background-color: #7a5252;
+  border-color: #7a5252;
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-c .ct-point, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-c .ct-line, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-c .ct-bar, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-c .ct-slice-donut {
+  stroke: #3d2929;
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-c .ct-bar + .ct-barlabel {
+  fill: setcolor(#3d2929);
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-c .ct-circle {
+  fill: #3d2929;
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-c .ct-circle + .ct-label {
+  fill: #3d2929;
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-c .ct-slice-pie, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-c .ct-area, #chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-c .ct-slice-donut-solid {
+  fill: #3d2929;
+  stroke: setcolor(#3d2929);
+}
+#chart_dashboard_card_central_d46c85d924aaa97257c6c3bfdf10b46039c8ce50 .ct-series-2:before {
+  background-color: #3d2929;
+  border-color: #3d2929;
+}
+";

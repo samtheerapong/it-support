@@ -1,0 +1,1140 @@
+2023-03-18 09:22:50 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น contract
+2023-03-18 09:23:05 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น infocom
+2023-03-18 09:24:50 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-18 09:25:00 [@NFC-LAB01]
+Internal #1: Launch session
+2023-03-18 09:30:14 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-03-18 09:36:55 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-03-18 09:42:54 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น closeticket
+2023-03-18 09:44:45 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น alertnotclosed
+2023-03-18 09:48:23 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-18 09:53:24 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น createinquest
+2023-03-18 09:58:39 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น watcher
+2023-03-18 09:59:23 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-03-18 09:59:36 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-18 10:03:41 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-18 10:03:55 [@NFC-LAB01]
+Internal #1: Launch queuednotificationclean
+2023-03-18 12:25:37 [@NFC-LAB01]
+Internal #1: Launch temp
+2023-03-18 12:32:34 [2@NFC-LAB01]
+Internal #1: Launch mailgateerror
+2023-03-18 12:39:18 [2@NFC-LAB01]
+Internal #1: Launch certificate
+2023-03-18 12:44:59 [2@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-03-18 12:58:20 [2@NFC-LAB01]
+Internal #1: Launch mailgate
+2023-03-18 13:05:15 [2@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-03-18 13:10:29 [2@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-03-18 13:15:33 [2@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-18 13:22:14 [2@NFC-LAB01]
+Internal #1: Launch graph
+2023-03-18 13:27:14 [2@NFC-LAB01]
+Internal #1: Launch reservation
+2023-03-18 13:32:35 [2@NFC-LAB01]
+Internal #1: Launch RecurrentItems
+2023-03-18 13:38:02 [2@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-03-18 13:43:10 [2@NFC-LAB01]
+Internal #1: Launch mailgate
+2023-03-18 13:43:14 [@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-03-18 13:43:16 [@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-03-18 13:43:17 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-18 13:43:23 [@NFC-LAB01]
+Internal #1: Launch temp
+2023-03-18 13:43:24 [@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-03-18 13:43:27 [@NFC-LAB01]
+Internal #1: Nothing to Launch
+2023-03-18 13:43:28 [@NFC-LAB01]
+Internal #1: Nothing to Launch
+2023-03-18 13:45:31 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-18 13:45:32 [@NFC-LAB01]
+Internal #1: Nothing to Launch
+2023-03-18 13:46:09 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-18 13:47:50 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-20 00:58:00 [@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-03-20 01:02:23 [@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-03-20 01:13:32 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 01:13:35 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-20 01:15:46 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-20 01:22:08 [2@NFC-LAB01]
+Internal #1: Launch graph
+2023-03-20 01:23:40 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-03-20 01:24:24 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-03-20 01:24:48 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-03-20 01:25:17 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น closeticket
+2023-03-20 01:26:46 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น alertnotclosed
+2023-03-20 01:29:32 [2@NFC-LAB01]
+Internal #1: Launch contract
+2023-03-20 01:40:35 [2@NFC-LAB01]
+Internal #1: Launch infocom
+2023-03-20 01:46:13 [2@NFC-LAB01]
+Internal #1: Launch session
+2023-03-20 01:51:30 [2@NFC-LAB01]
+Internal #1: Launch createinquest
+2023-03-20 01:57:28 [2@NFC-LAB01]
+Internal #1: Launch watcher
+2023-03-20 02:03:12 [2@NFC-LAB01]
+Internal #1: Launch queuednotificationclean
+2023-03-20 02:08:59 [2@NFC-LAB01]
+Internal #1: Launch mailgateerror
+2023-03-20 02:14:03 [2@NFC-LAB01]
+Internal #1: Launch certificate
+2023-03-20 02:19:11 [2@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-03-20 02:25:18 [2@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-03-20 02:28:37 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-20 02:30:55 [2@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-03-20 02:33:48 [10@NFC-LAB01]
+Internal #1: Launch mailgate
+2023-03-20 02:36:19 [2@NFC-LAB01]
+Internal #1: Launch graph
+2023-03-20 02:40:04 [10@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-03-20 02:41:24 [2@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-03-20 02:46:39 [2@NFC-LAB01]
+Internal #1: Launch RecurrentItems
+2023-03-20 02:51:42 [2@NFC-LAB01]
+Internal #1: Launch temp
+2023-03-20 02:56:44 [2@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-20 03:01:46 [2@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-03-20 03:07:24 [2@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-03-20 03:12:28 [2@NFC-LAB01]
+Internal #1: Launch mailgate
+2023-03-20 03:17:41 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-20 03:24:46 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 03:25:32 [10@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-20 03:27:36 [@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-03-20 03:50:47 [@NFC-LAB01]
+Internal #1: Launch mailgate
+2023-03-20 03:50:53 [@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-03-20 03:50:56 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-20 03:55:54 [@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-03-20 04:01:13 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-20 04:06:23 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-03-20 04:43:25 [@NFC-LAB01]
+Internal #1: Launch reservation
+2023-03-20 04:46:28 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-03-20 04:47:44 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 04:47:49 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-03-20 04:47:51 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-20 04:49:04 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-20 04:54:08 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-20 04:54:10 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-20 04:54:11 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 05:02:36 [@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-03-20 05:02:38 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-20 05:12:10 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-20 05:12:24 [@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-03-20 05:24:02 [@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-03-20 05:25:33 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-20 05:25:54 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-03-20 05:26:11 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-20 05:27:59 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-20 05:28:28 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-20 05:31:25 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-20 05:33:01 [@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-03-20 05:34:49 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-20 05:35:27 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-20 05:35:31 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 05:35:38 [@NFC-LAB01]
+ภายใน #1: ไม่มีอะไรที่จะเริ่ม
+2023-03-20 05:35:43 [@NFC-LAB01]
+ภายใน #1: ไม่มีอะไรที่จะเริ่ม
+2023-03-20 05:36:01 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-20 05:37:20 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-20 05:37:21 [@NFC-LAB01]
+Internal #1: Nothing to Launch
+2023-03-20 05:37:23 [@NFC-LAB01]
+Internal #1: Nothing to Launch
+2023-03-20 05:37:27 [@NFC-LAB01]
+Internal #1: Nothing to Launch
+2023-03-20 05:37:34 [@NFC-LAB01]
+Internal #1: Nothing to Launch
+2023-03-20 05:38:00 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-20 05:45:30 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 05:46:11 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-20 05:46:15 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-20 05:48:06 [@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-03-20 05:49:51 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-03-20 05:49:55 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-03-20 05:50:35 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 05:51:07 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-03-20 05:51:19 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-20 05:51:41 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-20 05:51:54 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-20 05:52:08 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-20 05:52:28 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 05:52:31 [@NFC-LAB01]
+ภายใน #1: ไม่มีอะไรที่จะเริ่ม
+2023-03-20 05:57:05 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-20 06:00:16 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 06:05:49 [11@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-03-20 06:13:52 [11@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-20 06:14:29 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-20 06:20:45 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 06:20:53 [11@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-20 06:21:11 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-20 06:21:21 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-20 06:23:40 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-20 06:27:46 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-20 06:30:35 [11@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 06:30:59 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-03-20 06:36:20 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-20 06:38:25 [@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-03-20 06:44:09 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-20 06:49:13 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 06:54:15 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-20 06:59:35 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-20 07:05:08 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-20 07:10:18 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-03-20 07:15:22 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-03-20 07:20:23 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-20 07:25:54 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 07:35:48 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-03-20 07:41:34 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-20 07:49:02 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-20 07:54:19 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-20 07:59:21 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-20 08:04:37 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-20 08:09:47 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-03-20 08:15:47 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-20 08:24:18 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-20 08:29:25 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-20 08:52:47 [@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-03-20 08:53:06 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-21 01:37:19 [@NFC-LAB01]
+Internal #1: Launch reservation
+2023-03-21 01:37:30 [@NFC-LAB01]
+Internal #1: Launch RecurrentItems
+2023-03-21 01:37:40 [@NFC-LAB01]
+Internal #1: Launch mailgate
+2023-03-21 01:56:07 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-21 02:02:19 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-22 02:44:58 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-03-22 03:12:27 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-22 03:17:37 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-22 03:22:53 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-03-22 03:27:54 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น closeticket
+2023-03-22 03:32:55 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น alertnotclosed
+2023-03-22 03:47:32 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น contract
+2023-03-22 03:54:39 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น infocom
+2023-03-22 04:00:00 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น session
+2023-03-22 04:05:04 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-22 04:05:10 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น createinquest
+2023-03-22 04:05:18 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น watcher
+2023-03-22 04:05:25 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-22 04:47:43 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotificationclean
+2023-03-22 05:53:26 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-22 05:55:05 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgateerror
+2023-03-22 06:44:21 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น certificate
+2023-03-22 06:55:47 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-03-22 07:00:55 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-03-22 07:05:59 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-22 07:25:59 [@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-03-22 07:30:37 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-03-22 07:36:04 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-22 07:41:06 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-22 07:46:10 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-03-22 07:51:36 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-22 07:57:43 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-22 08:02:52 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-22 08:07:57 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-22 08:13:08 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-22 08:24:05 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-03-22 08:29:14 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-22 08:35:43 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-22 08:40:45 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-03-22 08:46:08 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-22 08:51:22 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-22 08:56:37 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-22 09:01:43 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-03-22 09:19:50 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-22 09:25:13 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-22 09:30:15 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-03-22 09:35:22 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-22 09:40:23 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-22 09:45:27 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-22 15:32:11 [@NFC-LAB01]
+Internal #1: Launch reservation
+2023-03-23 02:24:44 [inventory@NFC-LAB01]
+Invalid gateway address
+2023-03-23 02:50:21 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-23 02:51:31 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-03-23 02:52:54 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-03-23 02:54:51 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-23 02:58:03 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-23 03:21:33 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-03-23 03:53:14 [@NFC-LAB01]
+Internal #1: Launch mailgate
+2023-03-23 03:59:22 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-03-23 04:05:37 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-03-23 04:10:39 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น closeticket
+2023-03-23 04:34:26 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น alertnotclosed
+2023-03-23 09:42:20 [@NFC-LAB01]
+Internal #1: Launch reservation
+2023-03-23 09:45:31 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-23 09:50:38 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-23 09:57:30 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-03-23 10:02:43 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-23 10:07:46 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น contract
+2023-03-24 01:10:07 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-03-24 01:16:26 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น infocom
+2023-03-24 01:21:32 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น session
+2023-03-24 01:27:00 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-24 01:33:39 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น createinquest
+2023-03-24 01:41:17 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น watcher
+2023-03-24 02:12:59 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotificationclean
+2023-03-24 02:19:34 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-03-24 02:24:37 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-03-24 03:22:34 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgateerror
+2023-03-25 03:17:16 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-03-25 04:53:30 [2@NFC-LAB01]
+Internal #1: Launch certificate
+2023-03-25 06:02:04 [2@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-03-25 07:36:55 [2@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-03-27 01:17:09 [@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-03-29 01:38:34 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-03-29 01:53:11 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-03-29 01:58:12 [@NFC-LAB01]
+Internal #1: Launch closeticket
+2023-03-29 02:03:26 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น alertnotclosed
+2023-03-29 02:08:48 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-03-29 02:21:19 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-03-29 02:26:34 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-03-29 02:31:39 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-03-29 02:38:17 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น contract
+2023-03-29 02:54:52 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น infocom
+2023-03-30 01:00:14 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-03-31 01:03:30 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-03-31 01:57:57 [@NFC-LAB01]
+Internal #1: Launch session
+2023-03-31 08:32:06 [@NFC-LAB01]
+Internal #1: Launch createinquest
+2023-03-31 08:32:14 [@NFC-LAB01]
+Internal #1: Launch watcher
+2023-03-31 08:37:18 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotificationclean
+2023-04-01 06:50:24 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-03 01:04:00 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-03 04:04:03 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgateerror
+2023-04-04 01:01:38 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-04 04:16:18 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-04 04:16:18 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 00:54:37 [@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-04-05 00:59:42 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น certificate
+2023-04-05 01:01:07 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-05 01:04:48 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-04-05 01:10:10 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-04-05 01:16:01 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-04-05 01:21:02 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-04-05 01:27:07 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-04-05 01:32:13 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-04-05 01:37:16 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-04-05 01:42:18 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น closeticket
+2023-04-05 01:47:22 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น alertnotclosed
+2023-04-05 02:02:57 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น contract
+2023-04-05 04:38:51 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น infocom
+2023-04-05 04:43:54 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น session
+2023-04-05 04:49:00 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น createinquest
+2023-04-05 04:54:07 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น watcher
+2023-04-05 04:59:12 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotificationclean
+2023-04-05 06:12:32 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgateerror
+2023-04-05 06:12:39 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:39 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-05 06:12:53 [@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-04-05 06:13:33 [@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-04-05 06:14:26 [@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-04-05 06:19:21 [@NFC-LAB01]
+Internal #1: Launch mailgate
+2023-04-05 06:19:51 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-04-05 06:25:19 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-04-05 06:34:36 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-04-05 06:39:49 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-04-06 01:49:56 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-07 01:36:02 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-07 04:51:55 [39@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:51:55 [39@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-04-07 04:53:10 [@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-04-07 08:09:48 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-04-07 09:11:42 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-04-08 01:09:27 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-10 00:51:29 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-11 02:03:30 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-18 06:01:10 [@NFC-LAB01]
+Internal #1: Launch mailgate
+2023-04-18 06:06:40 [9@NFC-LAB01]
+Internal #1: Launch reservation
+2023-04-18 06:14:15 [9@NFC-LAB01]
+Internal #1: Launch RecurrentItems
+2023-04-18 08:53:25 [9@NFC-LAB01]
+Internal #1: Launch temp
+2023-04-21 02:42:45 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-22 02:43:47 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-24 01:03:41 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-25 00:55:38 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-26 00:57:31 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-26 10:02:02 [@NFC-LAB01]
+Internal #1: Launch graph
+2023-04-27 01:13:06 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-27 07:34:58 [@NFC-LAB01]
+Internal #1: Launch closeticket
+2023-04-27 07:46:47 [9@NFC-LAB01]
+Internal #1: Launch alertnotclosed
+2023-04-28 00:53:09 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-29 00:54:28 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-04-29 04:11:49 [9@NFC-LAB01]
+Internal #1: Launch certificate
+2023-05-03 06:03:15 [@NFC-LAB01]
+Internal #1: Launch contract
+2023-05-05 00:58:40 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-06 01:00:55 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-08 03:10:19 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-10 00:56:33 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-13 01:01:47 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-15 01:44:15 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-16 01:18:18 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-17 00:58:03 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-18 00:57:22 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-19 03:30:03 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-22 01:00:34 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-22 08:16:14 [@NFC-LAB01]
+Internal #1: Launch infocom
+2023-05-23 00:59:40 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-24 01:01:12 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-25 01:02:29 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-26 00:47:09 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-27 00:47:27 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-30 00:58:26 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-05-31 01:32:25 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-06-06 06:03:10 [@NFC-LAB01]
+ไม่สามารถรับล็อค DB
+2023-06-06 06:03:10 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น session
+2023-06-06 08:07:34 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-06-07 07:49:48 [inventory@NFC-LAB01]
+Network already defined in visible entities
+2023-06-16 02:56:14 [@NFC-LAB01]
+Internal #1: Launch createinquest
+2023-06-16 03:01:51 [9@NFC-LAB01]
+Internal #1: Launch watcher
+2023-06-16 03:07:11 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotificationclean
+2023-06-16 03:12:51 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgateerror
+2023-06-16 03:17:52 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-06-16 03:17:52 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:52 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:52 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:52 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:52 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:52 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:17:53 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 03:22:57 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-06-16 03:30:19 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-06-16 03:35:20 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-06-16 03:40:24 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-06-16 03:45:27 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-06-16 03:50:30 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-06-16 03:55:36 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-06-16 04:01:02 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-06-16 04:06:06 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น closeticket
+2023-06-16 04:11:17 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น alertnotclosed
+2023-06-16 04:17:21 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น certificate
+2023-06-16 04:20:07 [@NFC-LAB01]
+Internal #1: Launch contract
+2023-06-16 04:20:54 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น infocom
+2023-06-16 04:21:18 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น session
+2023-06-16 04:21:30 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:30 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:31 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:31 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:31 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:31 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:31 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:31 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:21:45 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-06-16 04:22:00 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-06-16 04:53:51 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-06-16 04:54:07 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-06-16 04:55:18 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:55:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 04:59:45 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-06-16 04:59:47 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-06-16 05:00:16 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-06-16 05:03:37 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น RecurrentItems
+2023-06-16 05:04:08 [@NFC-LAB01]
+Internal #1: Launch temp
+2023-06-16 05:50:20 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-06-16 05:50:20 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:50:20 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:50:20 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:50:20 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:50:20 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:50:20 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:50:20 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:50:20 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:50:20 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:50:22 [@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-06-16 05:50:47 [@NFC-LAB01]
+Internal #1: Launch graph
+2023-06-16 05:51:15 [@NFC-LAB01]
+Internal #1: Launch mailgate
+2023-06-16 05:51:17 [@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-06-16 05:53:46 [@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-06-16 05:54:18 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-06-16 05:54:55 [@NFC-LAB01]
+Internal #1: Nothing to Launch
+2023-06-16 05:56:18 [@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-06-16 05:58:34 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-06-16 05:58:34 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:58:34 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:58:34 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:58:34 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:58:34 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:58:34 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:58:34 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:58:34 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:58:34 [@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 05:58:49 [@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-06-16 06:01:16 [@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-06-16 06:01:33 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-06-16 06:07:53 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น reservation
+2023-06-16 06:07:55 [@NFC-LAB01]
+Internal #1: Launch mailgate
+2023-06-16 06:08:30 [@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-06-16 06:09:09 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-06-16 06:10:36 [@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-06-16 06:11:04 [@NFC-LAB01]
+Internal #1: Launch RecurrentItems
+2023-06-16 07:10:53 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น temp
+2023-06-16 07:53:37 [@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-06-16 07:58:49 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-06-16 08:04:31 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น planningrecall
+2023-06-16 08:09:37 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น slaticket
+2023-06-16 08:13:39 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-06-16 08:18:56 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-06-16 08:20:22 [@NFC-LAB01]
+Internal #1: Launch reservation
+2023-06-16 08:22:10 [@NFC-LAB01]
+Internal #1: Launch RecurrentItems
+2023-06-16 08:22:22 [@NFC-LAB01]
+Internal #1: Launch olaticket
+2023-06-16 08:26:08 [@NFC-LAB01]
+Internal #1: Launch queuednotification
+2023-06-16 08:26:08 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 08:26:08 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 08:26:08 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 08:26:08 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 08:26:08 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 08:26:08 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-16 08:26:08 [@NFC-LAB01]
+Error in sending the email<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-19 05:44:47 [@NFC-LAB01]
+Internal #1: Launch planningrecall
+2023-06-27 09:05:59 [@NFC-LAB01]
+Internal #1: Launch temp
+2023-06-27 09:06:03 [@NFC-LAB01]
+Internal #1: Launch slaticket
+2023-06-27 09:16:03 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgate
+2023-06-27 09:53:17 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotification
+2023-06-27 09:53:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-27 09:53:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-27 09:53:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-27 09:53:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-27 09:53:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-27 09:53:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-27 09:53:18 [9@NFC-LAB01]
+มีข้อผิดพลาดในการส่งเมล์<br/>SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2023-06-27 09:58:19 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น olaticket
+2023-06-28 05:23:32 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น graph
+2023-06-28 05:24:21 [@NFC-LAB01]
+Internal #1: Launch reservation
+2023-06-28 05:29:21 [@NFC-LAB01]
+Internal #1: Launch RecurrentItems
+2023-06-28 05:33:12 [@NFC-LAB01]
+Internal #1: Launch closeticket
+2023-06-29 01:05:05 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น alertnotclosed
+2023-06-29 01:10:41 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น createinquest
+2023-06-29 01:15:43 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น watcher
+2023-06-29 01:21:13 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น queuednotificationclean
+2023-06-30 04:08:01 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น mailgateerror
+2023-07-01 01:29:24 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น certificate
+2023-07-01 03:58:14 [9@NFC-LAB01]
+ภายใน #1: เริ่มต้น contract
+2023-07-01 04:17:20 [@IT01]
+Internal #1: Launch infocom

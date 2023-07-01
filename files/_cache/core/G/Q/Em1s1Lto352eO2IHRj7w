@@ -1,0 +1,37 @@
+1688185108
+79b410f1be0648a1a72527b0335a06500f1fc5a3
+a:1:{s:53:"bn_count_Printer_c9a385d4-76a3-4971-ad0e-1470efeafacc";s:1202:"      <style>
+         #bn_2024766800 {
+            background-color: #5da8d6;
+            color: #153b52;
+         }
+
+         #bn_2024766800:hover {
+            background-color: #2f84b8;
+            border: 1px solid #1f587b;
+         }
+
+         .theme-dark #bn_2024766800 {
+            background-color: #153b52;
+            color: #5da8d6;
+         }
+
+         .theme-dark #bn_2024766800:hover {
+            background-color: #2f84b8;
+            color: #153b52;
+            border: 1px solid #1f587b;
+         }
+      </style>
+      <a href='/glpi/front/printer.php?reset=reset'
+         id="bn_2024766800"
+         class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
+         title="">
+         <span class="content">            <span title="17"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">17</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="ปริ้นเตอร์">ปริ้นเตอร์</div>
+         <i class="main-icon ti ti-printer"></i>
+      </a>";}

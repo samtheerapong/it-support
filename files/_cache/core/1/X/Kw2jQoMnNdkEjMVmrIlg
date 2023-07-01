@@ -1,0 +1,37 @@
+1688174821
+5835bc7fe994008e171ceda1deef0bf9a19e57ef
+a:1:{s:61:"bn_count_tickets_waiting_793c665b-b620-4b3a-a5a8-cf502defc008";s:1274:"      <style>
+         #bn_291903990 {
+            background-color: #ffcb7d;
+            color: #b06a00;
+         }
+
+         #bn_291903990:hover {
+            background-color: #ffac31;
+            border: 1px solid #e38800;
+         }
+
+         .theme-dark #bn_291903990 {
+            background-color: #b06a00;
+            color: #ffcb7d;
+         }
+
+         .theme-dark #bn_291903990:hover {
+            background-color: #ffac31;
+            color: #b06a00;
+            border: 1px solid #e38800;
+         }
+      </style>
+      <a href='/glpi/front/ticket.php?criteria%5B0%5D%5Bfield%5D=12&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=4&reset=reset'
+         id="bn_291903990"
+         class="card big-number  filter-dates filter-dates_mod filter-itilcategory filter-group_tech filter-user_tech filter-requesttype filter-location"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Pending tickets">Pending tickets</div>
+         <i class="main-icon fas fa-pause-circle"></i>
+      </a>";}

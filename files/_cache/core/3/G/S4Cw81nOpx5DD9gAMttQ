@@ -1,0 +1,289 @@
+1688185096
+2f64d15a7fc259af5cb51ae73176fffdcb6b9c73
+a:1:{s:64:"count_Computer_Manufacturer_6129c451-42b5-489d-b693-c362adf32d49";s:15225:"      <style>
+         #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 {
+            background-color: #f8faf9;
+            color: #81a593
+         }
+
+         .theme-dark #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 {
+            background-color: #26352d;
+            color: #81a593;
+         }
+
+         #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-label {
+            fill: #81a593;
+            color: #81a593;
+         }
+
+         .theme-dark #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-label {
+            fill: #81a593;
+            color: #81a593;
+         }
+
+         .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 {
+  /*!
+ * ---------------------------------------------------------------------
+ *
+ * GLPI - Gestionnaire Libre de Parc Informatique
+ *
+ * http://glpi-project.org
+ *
+ * @copyright 2015-2023 Teclib' and contributors.
+ * @copyright 2003-2014 by the INDEPNET Development Team.
+ * @licence   https://www.gnu.org/licenses/gpl-3.0.html
+ *
+ * ---------------------------------------------------------------------
+ *
+ * LICENSE
+ *
+ * This file is part of GLPI.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ *
+ * ---------------------------------------------------------------------
+ */
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-a .ct-point, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-a .ct-line, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-a .ct-bar, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-a .ct-slice-donut {
+  stroke: #1c8752;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-a .ct-bar + .ct-barlabel {
+  fill: setcolor(#1c8752);
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-a .ct-circle {
+  fill: #1c8752;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-a .ct-circle + .ct-label {
+  fill: #1c8752;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-a .ct-slice-pie, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-a .ct-area, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-a .ct-slice-donut-solid {
+  fill: #1c8752;
+  stroke: setcolor(#1c8752);
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-0:before {
+  background-color: #1c8752;
+  border-color: #1c8752;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-b .ct-point, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-b .ct-line, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-b .ct-bar, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-b .ct-slice-donut {
+  stroke: #2bb670;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-b .ct-bar + .ct-barlabel {
+  fill: setcolor(#2bb670);
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-b .ct-circle {
+  fill: #2bb670;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-b .ct-circle + .ct-label {
+  fill: #2bb670;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-b .ct-slice-pie, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-b .ct-area, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-b .ct-slice-donut-solid {
+  fill: #2bb670;
+  stroke: setcolor(#2bb670);
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-1:before {
+  background-color: #2bb670;
+  border-color: #2bb670;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-c .ct-point, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-c .ct-line, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-c .ct-bar, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-c .ct-slice-donut {
+  stroke: #4ed08f;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-c .ct-bar + .ct-barlabel {
+  fill: setcolor(#4ed08f);
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-c .ct-circle {
+  fill: #4ed08f;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-c .ct-circle + .ct-label {
+  fill: #4ed08f;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-c .ct-slice-pie, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-c .ct-area, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-c .ct-slice-donut-solid {
+  fill: #4ed08f;
+  stroke: setcolor(#4ed08f);
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-2:before {
+  background-color: #4ed08f;
+  border-color: #4ed08f;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-d .ct-point, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-d .ct-line, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-d .ct-bar, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-d .ct-slice-donut {
+  stroke: #81d9ad;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-d .ct-bar + .ct-barlabel {
+  fill: setcolor(#81d9ad);
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-d .ct-circle {
+  fill: #81d9ad;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-d .ct-circle + .ct-label {
+  fill: #81d9ad;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-d .ct-slice-pie, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-d .ct-area, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-d .ct-slice-donut-solid {
+  fill: #81d9ad;
+  stroke: setcolor(#81d9ad);
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-3:before {
+  background-color: #81d9ad;
+  border-color: #81d9ad;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-e .ct-point, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-e .ct-line, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-e .ct-bar, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-e .ct-slice-donut {
+  stroke: #b3e6cc;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-e .ct-bar + .ct-barlabel {
+  fill: setcolor(#b3e6cc);
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-e .ct-circle {
+  fill: #b3e6cc;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-e .ct-circle + .ct-label {
+  fill: #b3e6cc;
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-e .ct-slice-pie, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-e .ct-area, .dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-e .ct-slice-donut-solid {
+  fill: #b3e6cc;
+  stroke: setcolor(#b3e6cc);
+}
+.dashboard #chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series-4:before {
+  background-color: #b3e6cc;
+  border-color: #b3e6cc;
+}
+
+      </style>
+      <div style="height: 100%">
+         <div class="card g-chart pie donut filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
+            id="chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991">
+            <div class="chart ct-chart"></div>
+            <span class="main-label">คอมพิวเตอร์ by ผู้ผลิต</span>
+            <i class="main-icon ti ti-edit"></i>
+         </div>
+      </div><script type="text/javascript">
+//<![CDATA[
+
+      $(function () {
+         var chart = new Chartist.Pie(Dashboard.getActiveDashboard().element.find('#chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .chart')[0], {
+            labels: ["Dell","Hewlett-Packard","HP","Dell Inc.","without"],
+            series: [{"meta":"Dell","value":9,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=99&reset=reset"},{"meta":"Hewlett-Packard","value":9,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=87&reset=reset"},{"meta":"HP","value":8,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=32&reset=reset"},{"meta":"Dell Inc.","value":4,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=88&reset=reset"},{"meta":"without","value":2,"url":"\/glpi\/front\/computer.php?reset&criteria%5B0%5D%5Bfield%5D=23&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=0&reset=reset"}],
+         }, {
+            width: '100%',
+            chartPadding: 4,
+            donut: true,
+            
+            donutSolid: true,
+            showLabel: true,
+            labelInterpolationFnc: function(value) {
+               return '32';
+            },
+         
+            
+            donutWidth: '50%',
+            plugins: [
+               Chartist.plugins.tooltip({
+                  appendToBody: true,
+                  class: 'dashboard-tooltip'
+               })
+            ]
+         });
+
+
+         chart.on('draw', function(data) {
+            // animate
+            if (data.type === 'slice') {
+               // set url redirecting on slice
+               var url = _.get(data, 'series.url') || "";
+               if (url.length > 0) {
+                  data.element.attr({
+                     'data-clickable': true
+                  });
+                  data.element._node.onclick = function() {
+                     if (!Dashboard.getActiveDashboard().edit_mode) {
+                        window.location = url;
+                     }
+                  }
+               }
+
+               // Get the total path length in order to use for dash array animation
+               var pathLength = data.element._node.getTotalLength();
+
+               // Set a dasharray that matches the path length as prerequisite to animate dashoffset
+               data.element.attr({
+                  'stroke-dasharray': pathLength + 'px ' + pathLength + 'px'
+               });
+
+               // Create animation definition while also assigning an ID to the animation for later sync usage
+               var animationDefinition = {
+                  'stroke-dashoffset': {
+                     id: 'anim' + data.index,
+                     dur: 1000,
+                     from: -pathLength + 'px',
+                     to:  '0px',
+                     easing: Chartist.Svg.Easing.easeOutQuint,
+                     // We need to use `fill: 'freeze'` otherwise our animation will fall back to initial (not visible)
+                     fill: 'freeze'
+                  }
+               };
+
+               // We need to set an initial value before the animation starts as we are not in guided mode which would do that for us
+               data.element.attr({
+                  'stroke-dashoffset': -pathLength + 'px'
+               });
+
+               // We can't use guided mode as the animations need to rely on setting begin manually
+               // See http://gionkunz.github.io/chartist-js/api-documentation.html#chartistsvg-function-animate
+               data.element.animate(animationDefinition, false);
+            }
+
+            // donut center label
+            if (data.type === 'label') {
+               if (data.index === 0) {
+                  var width = data.element.root().width() / 2;
+                  var height = data.element.root().height() / 2;
+                  var fontsize = ((height / 1) / (1.3 * "32".length));
+                  data.element.attr({
+                     dx: width,
+                     dy: height - (4 / 2),
+                     'style': 'font-size: '+fontsize,
+                  });
+
+                  // apend real total
+                  var text = new Chartist.Svg('title');
+                  text.text("32");
+                  data.element.append(text);
+               } else {
+                  data.element.remove();
+               }
+            }
+
+            // fade others bars on one mouseouver
+            chart.on('created', function(bar) {
+               $('#chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-series')
+                  .mouseover(function() {
+                     $(this).parent().children().addClass('disable-animation');
+                     $(this).addClass('mouseover');
+                     $(this).siblings()
+                        .addClass('notmouseover');
+
+                     $('#chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-label')
+                        .addClass('fade');
+                  })
+                  .mouseout(function() {
+                     $(this).removeClass('mouseover');
+                     $(this).siblings()
+                        .removeClass('notmouseover');
+
+                     $('#chart-dashboard_card_central_b2e8933e0247228289538a006d18cb65a4c06991 .ct-label')
+                        .removeClass('fade');
+                  });
+            });
+         });
+      });
+
+//]]>
+</script>";}

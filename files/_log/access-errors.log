@@ -1,0 +1,10 @@
+2023-03-18 09:52:08 [2@NFC-LAB01]
+User ID: 2 tried to access or perform an action on /glpi/plugins/glpiinventory/front/config.form.php?itemtype=pluginfusioninventoryconfig&glpi_tab=1 with insufficient rights. Additional information: User is missing the 1 (READ) right for plugin_glpiinventory_configuration
+	Stack Trace:
+		D:\wamp\www\glpi\src\Session.php:1039 displayRightError()
+		D:\wamp\www\glpi\plugins\glpiinventory\front\config.form.php:36 checkRight()
+2023-03-20 08:53:10 [2@NFC-LAB01]
+CSRF check failed for User ID: 2 at /glpi/front/login.php2023-03-20 08:53:16 [2@NFC-LAB01]
+CSRF check failed for User ID: 2 at /glpi/front/login.php2023-03-29 01:59:36 [9@NFC-LAB01]
+CSRF check failed for User ID: 9 at /glpi/front/ticket.form.php2023-03-31 08:32:09 [@NFC-LAB01]
+CSRF check failed for User ID:  at /glpi/front/login.php

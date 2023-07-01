@@ -1,0 +1,37 @@
+1679275788
+5b7410457911c074ffd5a8e545592e08359ea381
+a:1:{s:78:"plugin_glpiinventory_nb_networkequipement_b756145a-58e6-4b9f-a73d-2196480b2516";s:1219:"      <style>
+         #bn_510141262 {
+            background-color: #606f91;
+            color: #d8dce5;
+         }
+
+         #bn_510141262:hover {
+            background-color: #8b97b2;
+            border: 1px solid #b9c0d1;
+         }
+
+         .theme-dark #bn_510141262 {
+            background-color: #d8dce5;
+            color: #606f91;
+         }
+
+         .theme-dark #bn_510141262:hover {
+            background-color: #8b97b2;
+            color: #d8dce5;
+            border: 1px solid #b9c0d1;
+         }
+      </style>
+      <a href='/glpi/front/networkequipment.php?criteria%5B0%5D%5Blink%5D=AND&criteria%5B0%5D%5Bfield%5D=72&criteria%5B0%5D%5Bsearchtype%5D=equals&criteria%5B0%5D%5Bvalue%5D=1&reset=reset'
+         id="bn_510141262"
+         class="card big-number "
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Network devices inventoried">Network devices inventoried</div>
+         <i class="main-icon fas fa-network-wired"></i>
+      </a>";}

@@ -1,0 +1,37 @@
+1682736946
+948226a7816a26211871c6678e735a1efde00735
+a:1:{s:49:"bn_count_PDU_60053eb6-8dda-4416-9a4b-afd51889bd09";s:1141:"      <style>
+         #bn_1591511944 {
+            background-color: #ffb62f;
+            color: #624000;
+         }
+
+         #bn_1591511944:hover {
+            background-color: #e29200;
+            border: 1px solid #956100;
+         }
+
+         .theme-dark #bn_1591511944 {
+            background-color: #624000;
+            color: #ffb62f;
+         }
+
+         .theme-dark #bn_1591511944:hover {
+            background-color: #e29200;
+            color: #624000;
+            border: 1px solid #956100;
+         }
+      </style>
+      <a href='/glpi/front/pdu.php?reset=reset'
+         id="bn_1591511944"
+         class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="PDUs">PDUs</div>
+         <i class="main-icon ti ti-plug"></i>
+      </a>";}

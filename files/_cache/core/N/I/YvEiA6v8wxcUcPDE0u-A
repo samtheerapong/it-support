@@ -1,0 +1,37 @@
+1686895385
+7d614c828b00f360dc5e14434fd7134baea9bc73
+a:1:{s:66:"plugin_glpiinventory_nb_agent_19211626-32fc-4a78-b7f2-1d190b8851a7";s:1054:"      <style>
+         #bn_1599120150 {
+            background-color: #606f91;
+            color: #d8dce5;
+         }
+
+         #bn_1599120150:hover {
+            background-color: #8b97b2;
+            border: 1px solid #b9c0d1;
+         }
+
+         .theme-dark #bn_1599120150 {
+            background-color: #d8dce5;
+            color: #606f91;
+         }
+
+         .theme-dark #bn_1599120150:hover {
+            background-color: #8b97b2;
+            color: #d8dce5;
+            border: 1px solid #b9c0d1;
+         }
+      </style>
+      <a href='/glpi/front/agent.php?reset=reset'
+         id="bn_1599120150"
+         class="card big-number "
+         title="">
+         <span class="content">            <span title="34"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">34</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Number of Agent">Number of Agent</div>
+         <i class="main-icon ti ti-robot"></i>
+      </a>";}

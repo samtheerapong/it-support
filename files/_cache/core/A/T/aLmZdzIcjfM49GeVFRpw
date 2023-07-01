@@ -1,0 +1,37 @@
+1686895385
+138fc3d52ba1f83f95a4a5d2c94d0f321e26107d
+a:1:{s:65:"plugin_glpiinventory_nb_task_62fd301d-24a2-48c8-ad34-84a8b54fac74";s:1078:"      <style>
+         #bn_1680840976 {
+            background-color: #606f91;
+            color: #d8dce5;
+         }
+
+         #bn_1680840976:hover {
+            background-color: #8b97b2;
+            border: 1px solid #b9c0d1;
+         }
+
+         .theme-dark #bn_1680840976 {
+            background-color: #d8dce5;
+            color: #606f91;
+         }
+
+         .theme-dark #bn_1680840976:hover {
+            background-color: #8b97b2;
+            color: #d8dce5;
+            border: 1px solid #b9c0d1;
+         }
+      </style>
+      <a href='/glpi/plugins/glpiinventory/front/task.php?reset=reset'
+         id="bn_1680840976"
+         class="card big-number "
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Number of Tasks">Number of Tasks</div>
+         <i class="main-icon ti ti-list-check"></i>
+      </a>";}

@@ -1,0 +1,28 @@
+Install date
+1. 17/9/2022
+
+Computer Name: PD01-NFC 
+MAC Addr PC : C0:25:A5:B2:C3:15
+MAC Addr Notebook: 54:8c:a0:a9:a2:b1
+
+user
+username: taweekiat.kh
+Password: taweekiat
+Printer : Epson L210 Form WH01-NFC
+
+MRP
+username: taweekiat
+Password: 1234
+
+Internet
+username: taweekiat
+Password: taweekiat
+
+admin
+Password: Ad...
+
+Actived Microsoft Office
+Office 2021 Key: PYYQP-9Y3XX-MKC9V-62K7X-DYD7Z
+email: pd01nfc@hotmail.com
+Pssword: Ad.....
+dob: 17/9/2000
